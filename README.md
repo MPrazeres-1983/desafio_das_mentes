@@ -79,7 +79,6 @@ Resposta Errada: O jogador é eliminado.
 desafio_das_mentes/
 ├── data/
 │   ├── records.json
-│
 ├── perguntas/
 │   ├── artes.json
 │   ├── alimentacao.json
@@ -91,7 +90,6 @@ desafio_das_mentes/
 │   ├── geografia.json
 │   ├── historia.json
 │   ├── mitologia.json
-│
 ├── src/
 │   ├── banco_perguntas.py
 │   ├── interface.py
@@ -102,15 +100,11 @@ desafio_das_mentes/
 │   ├── jogo_solo.py
 │   ├── jogador_bot.py
 │   ├── recordes.py
-│
 ├── sons/
 │   ├── correto.wav
 │   ├── errado.wav
-│
 ├── requirements.txt
 ├── README.md
-            
-
 
 #📌 Funcionalidades Atuais
 ✔ Seleção de 1 a 4 jogadores.
