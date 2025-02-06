@@ -78,7 +78,7 @@ Resposta Errada: O jogador é eliminado.
 
 desafio_das_mentes/
 ├── data/
-│   ├── recordes.json       # Armazena os recordes do jogo.
+│   ├── recordes.json       
 ├── perguntas/
 │   ├── artes.json
 │   ├── alimentacao.json
@@ -91,20 +91,20 @@ desafio_das_mentes/
 │   ├── historia.json
 │   ├── mitologia.json
 ├── src/
-│   ├── banco_perguntas.py   # Gere o carregamento e a filtragem de perguntas.
-│   ├── interface.py         # Implementa a interface gráfica do jogo.
-│   ├── jogador.py           # Representa os jogadores do jogo.
-│   ├── jogo.py              # Gere a lógica central do jogo.
-│   ├── main.py              # Arquivo principal para iniciar o jogo.
-│   ├── pergunta.py          # Representa uma pergunta e suas alternativas.
-│   ├── jogo_solo.py         # Gere o jogo em modo solo.
-│   ├── jogador_bot.py       # Representa os jogadores BOTs.
-│   ├── recordes.py          # Gere os recordes obtidos pelos jogadores.
+│   ├── banco_perguntas.py   
+│   ├── interface.py         
+│   ├── jogador.py           
+│   ├── jogo.py              
+│   ├── main.py             
+│   ├── pergunta.py          
+│   ├── jogo_solo.py         
+│   ├── jogador_bot.py       
+│   ├── recordes.py          
 ├── sons/
-│   ├── correto.wav          # Som para respostas corretas.
-│   ├── errado.wav           # Som para respostas erradas.
-├── requirements.txt         # Lista de bibliotecas necessárias.
-├── README.md                # Documentação do projeto.
+│   ├── correto.wav          
+│   ├── errado.wav           
+├── requirements.txt         
+├── README.md                
 
 
 #📌 Funcionalidades Atuais
