@@ -76,35 +76,38 @@ Resposta Errada: O jogador é eliminado.
 
 ## 📂 Estrutura do Projeto
 
-desafio_das_mentes/
-├── data/
-│   ├── records.json
-├── perguntas/
-│   ├── artes.json
-│   ├── alimentacao.json
-│   ├── ciencia_e_tecnologia.json
-│   ├── ciencias_naturais.json
-│   ├── cultura_geral.json
-│   ├── desporto.json
-│   ├── entretenimento.json
-│   ├── geografia.json
-│   ├── historia.json
-│   ├── mitologia.json
-├── src/
-│   ├── banco_perguntas.py
-│   ├── interface.py
-│   ├── jogador.py
-│   ├── jogo.py
-│   ├── main.py
-│   ├── pergunta.py
-│   ├── jogo_solo.py
-│   ├── jogador_bot.py
-│   ├── recordes.py
-├── sons/
-│   ├── correto.wav
-│   ├── errado.wav
-├── requirements.txt
-├── README.md
+## 📂 Estrutura do Projeto
+
+- **desafio_das_mentes/**
+  - 📁 **data/**
+    - 📄 `records.json`
+  - 📁 **perguntas/**
+    - 📄 `artes.json`
+    - 📄 `alimentacao.json`
+    - 📄 `ciencia_e_tecnologia.json`
+    - 📄 `ciencias_naturais.json`
+    - 📄 `cultura_geral.json`
+    - 📄 `desporto.json`
+    - 📄 `entretenimento.json`
+    - 📄 `geografia.json`
+    - 📄 `historia.json`
+    - 📄 `mitologia.json`
+  - 📁 **src/**
+    - 📄 `banco_perguntas.py`
+    - 📄 `interface.py`
+    - 📄 `jogador.py`
+    - 📄 `jogo.py`
+    - 📄 `main.py`
+    - 📄 `pergunta.py`
+    - 📄 `jogo_solo.py`
+    - 📄 `jogador_bot.py`
+    - 📄 `recordes.py`
+  - 📁 **sons/**
+    - 🔊 `correto.wav`
+    - 🔊 `errado.wav`
+  - 📄 `requirements.txt`
+  - 📄 `README.md`
+
 
 #📌 Funcionalidades Atuais
 ✔ Seleção de 1 a 4 jogadores.
