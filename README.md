@@ -6,13 +6,13 @@
 
 **Desafio das Mentes** é um jogo de perguntas e respostas competitivo, onde de **1 a 4 jogadores** (humanos ou BOTs) disputam para ver quem tem mais conhecimento. A cada rodada, os jogadores enfrentam perguntas de categorias variadas, com diferentes níveis de dificuldade.
 
-## 🎮 Modos de Jogo  
+### 🎮 Modos de Jogo  
 
-### 🔹 **Modo Solo**
+#### 🔹 **Modo Solo**
 - Apenas um jogador humano participa.  
 - O objetivo é acumular o maior número de pontos possíveis sem ser eliminado.  
 
-### 🔹 **Modo Normal (Multijogador)**  
+#### 🔹 **Modo Normal (Multijogador)**  
 - Entre **2 a 4 jogadores** podem participar.  
 - Pode incluir jogadores humanos e/ou BOTs.  
 - Os BOTs respondem conforme a dificuldade da rodada:  
@@ -23,7 +23,7 @@
 | Médio      | 6 – 10   | 65%                    |
 | Difícil    | 11+      | 50%                    |
 
-## 🏆 Regras do Jogo  
+###### 🏆 Regras do Jogo  
 
 1️⃣ **Participantes**  
 - **Modo Solo**: Apenas 1 jogador (humano).  
@@ -59,7 +59,7 @@
 - O **último jogador restante** será declarado **vencedor**.  
 - Se todos os jogadores forem eliminados na mesma rodada e com a mesma pontuação, o jogo termina **empatado**.  
 
-## 🚀 Como Jogar  
+####### 🚀 Como Jogar  
 
 Para iniciar o jogo, execute o seguinte comando na pasta raiz:
 
@@ -75,7 +75,7 @@ Resposta Errada: O jogador é eliminado.
 4️⃣ No final, o vencedor é declarado e os recordes são guardados.
 
 📂 Estrutura do Projeto
-
+########
 desafio_das_mentes/
 ├── data/
 │   ├── recordes.json       # Armazena os recordes do jogo.
