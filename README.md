@@ -79,7 +79,6 @@ Resposta Errada: O jogador é eliminado.
 desafio_das_mentes/
 ├── data/
 │   ├── recordes.json       # Armazena os recordes do jogo.
-│   ├── regras.txt          # Regras do jogo.
 ├── perguntas/
 │   ├── artes.json
 │   ├── alimentacao.json
