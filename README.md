@@ -79,7 +79,8 @@ Resposta Errada: O jogador é eliminado.
 desafio_das_mentes/
 ├── data/
 │   ├── recordes.json       # Armazena os recordes do jogo.
-│   ├── perguntas/
+│   ├── regras.txt          # Regras do jogo.
+├── perguntas/
 │   ├── artes.json
 │   ├── alimentacao.json
 │   ├── ciencia_e_tecnologia.json
@@ -105,6 +106,7 @@ desafio_das_mentes/
 │   ├── errado.wav           # Som para respostas erradas.
 ├── requirements.txt         # Lista de bibliotecas necessárias.
 ├── README.md                # Documentação do projeto.
+
 
 📌 Funcionalidades Atuais
 ✔ Seleção de 1 a 4 jogadores.
