@@ -74,8 +74,8 @@ Resposta Correta: O jogador ganha 1 ponto.
 Resposta Errada: O jogador é eliminado.
 4️⃣ No final, o vencedor é declarado e os recordes são guardados.
 
-📂 Estrutura do Projeto
-#########
+######## 📂 Estrutura do Projeto
+
 desafio_das_mentes/
 ├── data/
 │   ├── recordes.json       # Armazena os recordes do jogo.
