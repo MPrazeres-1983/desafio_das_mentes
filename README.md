@@ -107,7 +107,7 @@ desafio_das_mentes/
 ├── README.md                # Documentação do projeto.
 
 
-###📌 Funcionalidades Atuais
+#📌 Funcionalidades Atuais
 ✔ Seleção de 1 a 4 jogadores.
 ✔ Escolha de categoria no início de cada rodada.
 ✔ Sistema de dificuldade crescente:
@@ -122,7 +122,7 @@ Rodadas 11 em diante: Perguntas de dificuldade 3.
 ✔ Sons para respostas corretas e incorretas.
 ✔ Edição ou remoção de jogadores que tenham sido criados por engano.
 
-####📌 Funcionalidades Planeadas 🔜
+##📌 Funcionalidades Planeadas 🔜
 🛠️ Novos modos de jogo "cronometrados".
 🛠️ Migrar para SQL (não é prioridade por enquanto).
 
