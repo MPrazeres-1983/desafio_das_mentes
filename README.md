@@ -78,7 +78,8 @@ Resposta Errada: O jogador é eliminado.
 
 desafio_das_mentes/
 ├── data/
-│   ├── recordes.json       
+│   ├── records.json
+│
 ├── perguntas/
 │   ├── artes.json
 │   ├── alimentacao.json
@@ -90,21 +91,25 @@ desafio_das_mentes/
 │   ├── geografia.json
 │   ├── historia.json
 │   ├── mitologia.json
+│
 ├── src/
-│   ├── banco_perguntas.py   
-│   ├── interface.py         
-│   ├── jogador.py           
-│   ├── jogo.py              
-│   ├── main.py             
-│   ├── pergunta.py          
-│   ├── jogo_solo.py         
-│   ├── jogador_bot.py       
-│   ├── recordes.py          
+│   ├── banco_perguntas.py
+│   ├── interface.py
+│   ├── jogador.py
+│   ├── jogo.py
+│   ├── main.py
+│   ├── pergunta.py
+│   ├── jogo_solo.py
+│   ├── jogador_bot.py
+│   ├── recordes.py
+│
 ├── sons/
-│   ├── correto.wav          
-│   ├── errado.wav           
-├── requirements.txt         
-├── README.md                
+│   ├── correto.wav
+│   ├── errado.wav
+│
+├── requirements.txt
+├── README.md
+            
 
 
 #📌 Funcionalidades Atuais
