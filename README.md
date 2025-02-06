@@ -118,7 +118,10 @@ Resposta Errada: O jogador é eliminado.
 ✔ Sistema de dificuldade crescente:
 
 Rodadas 1 a 5: Perguntas de dificuldade 1.
+
+
 Rodadas 6 a 10: Perguntas de dificuldade 2.
+
 Rodadas 11 em diante: Perguntas de dificuldade 3.
 
 ✔ Aleatoriedade das alternativas para maior desafio.
