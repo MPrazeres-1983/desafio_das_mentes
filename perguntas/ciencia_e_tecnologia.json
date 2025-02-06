@@ -1,0 +1,465 @@
+{
+  "categoria": "Ciência e Tecnologia",
+  "perguntas": [
+    {
+      "id": 1,
+      "texto": "Qual é o planeta mais próximo do Sol?",
+      "alternativas": ["Mercúrio", "Vênus", "Terra", "Marte"],
+      "resposta_correta": 0,
+      "dificuldade": 1
+    },
+    {
+      "id": 2,
+      "texto": "O que significa a sigla 'WWW'?",
+      "alternativas": [
+        "World Wide Web",
+        "Wide World Web",
+        "Web World Wide",
+        "World Web Wide"
+      ],
+      "resposta_correta": 0,
+      "dificuldade": 1
+    },
+    {
+      "id": 3,
+      "texto": "Quem é considerado o pai da computação?",
+      "alternativas": [
+        "Alan Turing",
+        "Bill Gates",
+        "Steve Jobs",
+        "Charles Babbage"
+      ],
+      "resposta_correta": 0,
+      "dificuldade": 1
+    },
+    {
+      "id": 4,
+      "texto": "Qual o elemento químico que tem o símbolo 'O'?",
+      "alternativas": ["Oxigênio", "Ouro", "Ósmio", "Obsidiana"],
+      "resposta_correta": 0,
+      "dificuldade": 1
+    },
+    {
+      "id": 5,
+      "texto": "Qual é a unidade básica de medida da corrente elétrica?",
+      "alternativas": ["Ampere", "Volt", "Ohm", "Watt"],
+      "resposta_correta": 0,
+      "dificuldade": 1
+    },
+    {
+      "id": 6,
+      "texto": "Quem inventou a lâmpada incandescente?",
+      "alternativas": [
+        "Thomas Edison",
+        "Nikola Tesla",
+        "Benjamin Franklin",
+        "Alexander Bell"
+      ],
+      "resposta_correta": 0,
+      "dificuldade": 2
+    },
+    {
+      "id": 7,
+      "texto": "Qual é a função principal do DNA?",
+      "alternativas": [
+        "Armazenar informação genética",
+        "Produzir energia",
+        "Realizar reações químicas",
+        "Fortalecer células"
+      ],
+      "resposta_correta": 0,
+      "dificuldade": 2
+    },
+    {
+      "id": 8,
+      "texto": "Qual é o nome da galáxia em que vivemos?",
+      "alternativas": ["Via Láctea", "Andrômeda", "Triângulo", "Sagitário"],
+      "resposta_correta": 0,
+      "dificuldade": 2
+    },
+    {
+      "id": 9,
+      "texto": "Qual a partícula subatômica que tem carga negativa?",
+      "alternativas": ["Elétron", "Próton", "Nêutron", "Fóton"],
+      "resposta_correta": 0,
+      "dificuldade": 3
+    },
+    {
+      "id": 10,
+      "texto": "Qual o cientista que propôs a teoria da relatividade?",
+      "alternativas": [
+        "Albert Einstein",
+        "Isaac Newton",
+        "Marie Curie",
+        "Stephen Hawking"
+      ],
+      "resposta_correta": 0,
+      "dificuldade": 3
+    },
+    {
+      "id": 11,
+      "texto": "Qual é o maior planeta do sistema solar?",
+      "alternativas": ["Júpiter", "Saturno", "Urano", "Netuno"],
+      "resposta_correta": 0,
+      "dificuldade": 1
+    },
+    {
+      "id": 12,
+      "texto": "Qual é a principal fonte de energia da Terra?",
+      "alternativas": ["O Sol", "O petróleo", "O vento", "A água"],
+      "resposta_correta": 0,
+      "dificuldade": 1
+    },
+    {
+      "id": 13,
+      "texto": "Qual é o nome do primeiro satélite artificial lançado ao espaço?",
+      "alternativas": ["Sputnik", "Apollo", "Hubble", "Explorer"],
+      "resposta_correta": 0,
+      "dificuldade": 1
+    },
+    {
+      "id": 14,
+      "texto": "Qual é o estado físico da água a 100 graus Celsius ao nível do mar?",
+      "alternativas": ["Gasoso", "Líquido", "Sólido", "Plasma"],
+      "resposta_correta": 0,
+      "dificuldade": 1
+    },
+    {
+      "id": 15,
+      "texto": "Qual é o dispositivo usado para medir temperatura?",
+      "alternativas": ["Termômetro", "Barômetro", "Anemômetro", "Higrômetro"],
+      "resposta_correta": 0,
+      "dificuldade": 1
+    },
+    {
+      "id": 16,
+      "texto": "Qual é o nome do planeta conhecido como \"Planeta Vermelho\"?",
+      "alternativas": ["Marte", "Júpiter", "Vênus", "Netuno"],
+      "resposta_correta": 0,
+      "dificuldade": 1
+    },
+    {
+      "id": 17,
+      "texto": "O que usamos para medir a velocidade do vento?",
+      "alternativas": ["Anemômetro", "Barômetro", "Higrômetro", "Altímetro"],
+      "resposta_correta": 0,
+      "dificuldade": 1
+    },
+    {
+      "id": 18,
+      "texto": "Qual é o órgão responsável por bombear sangue no corpo humano?",
+      "alternativas": ["Coração", "Pulmão", "Fígado", "Estômago"],
+      "resposta_correta": 0,
+      "dificuldade": 1
+    },
+    {
+      "id": 19,
+      "texto": "Qual é o metal líquido à temperatura ambiente?",
+      "alternativas": ["Mercúrio", "Chumbo", "Ferro", "Prata"],
+      "resposta_correta": 0,
+      "dificuldade": 1
+    },
+    {
+      "id": 20,
+      "texto": "Quem foi o primeiro homem a pisar na Lua?",
+      "alternativas": [
+        "Neil Armstrong",
+        "Buzz Aldrin",
+        "Yuri Gagarin",
+        "John Glenn"
+      ],
+      "resposta_correta": 0,
+      "dificuldade": 1
+    },
+    {
+      "id": 21,
+      "texto": "O que é um ano-luz?",
+      "alternativas": [
+        "Distância que a luz percorre em um ano",
+        "Tempo que a Terra leva para orbitar o Sol",
+        "Velocidade da luz",
+        "Um ciclo lunar completo"
+      ],
+      "resposta_correta": 0,
+      "dificuldade": 2
+    },
+    {
+      "id": 22,
+      "texto": "Qual é o nome do processo pelo qual as plantas produzem seu alimento?",
+      "alternativas": ["Fotossíntese", "Respiração", "Digestão", "Evaporação"],
+      "resposta_correta": 0,
+      "dificuldade": 2
+    },
+    {
+      "id": 23,
+      "texto": "Qual foi o primeiro computador programável do mundo?",
+      "alternativas": ["Z3", "ENIAC", "UNIVAC", "IBM 701"],
+      "resposta_correta": 0,
+      "dificuldade": 2
+    },
+    {
+      "id": 24,
+      "texto": "Qual o dispositivo que é usado para armazenar energia elétrica?",
+      "alternativas": ["Bateria", "Transformador", "Resistor", "Capacitor"],
+      "resposta_correta": 0,
+      "dificuldade": 2
+    },
+    {
+      "id": 25,
+      "texto": "O que é uma supernova?",
+      "alternativas": [
+        "Explosão de uma estrela",
+        "Colapso de um buraco negro",
+        "Formação de uma galáxia",
+        "Aproximação de um cometa"
+      ],
+      "resposta_correta": 0,
+      "dificuldade": 2
+    },
+    {
+      "id": 26,
+      "texto": "Quem é considerado o \"pai\" da física moderna?",
+      "alternativas": [
+        "Albert Einstein",
+        "Galileu Galilei",
+        "Isaac Newton",
+        "Niels Bohr"
+      ],
+      "resposta_correta": 0,
+      "dificuldade": 2
+    },
+    {
+      "id": 27,
+      "texto": "Qual é o nome do cientista que descobriu a penicilina?",
+      "alternativas": [
+        "Alexander Fleming",
+        "Louis Pasteur",
+        "Marie Curie",
+        "Jonas Salk"
+      ],
+      "resposta_correta": 0,
+      "dificuldade": 2
+    },
+    {
+      "id": 28,
+      "texto": "Qual é o maior órgão do corpo humano?",
+      "alternativas": ["A pele", "O fígado", "O cérebro", "O pulmão"],
+      "resposta_correta": 0,
+      "dificuldade": 2
+    },
+    {
+      "id": 29,
+      "texto": "O que significa a sigla \"AI\" em tecnologia?",
+      "alternativas": [
+        "Inteligência Artificial",
+        "Automação Industrial",
+        "Interface Avançada",
+        "Análise Integrada"
+      ],
+      "resposta_correta": 0,
+      "dificuldade": 2
+    },
+    {
+      "id": 30,
+      "texto": "Qual o dispositivo que é usado para converter energia solar em energia elétrica?",
+      "alternativas": ["Painel solar", "Transformador", "Gerador", "Turbina"],
+      "resposta_correta": 0,
+      "dificuldade": 2
+    },
+    {
+      "id": 31,
+      "texto": "Qual o cientista que criou as leis do movimento?",
+      "alternativas": [
+        "Isaac Newton",
+        "Galileu Galilei",
+        "Albert Einstein",
+        "Johannes Kepler"
+      ],
+      "resposta_correta": 0,
+      "dificuldade": 3
+    },
+    {
+      "id": 32,
+      "texto": "Qual é o nome do elemento químico mais abundante no universo?",
+      "alternativas": ["Hidrogênio", "Oxigênio", "Hélio", "Carbono"],
+      "resposta_correta": 0,
+      "dificuldade": 3
+    },
+    {
+      "id": 33,
+      "texto": "Qual é o nome da camada mais externa da Terra?",
+      "alternativas": ["Crosta", "Manto", "Núcleo externo", "Núcleo interno"],
+      "resposta_correta": 0,
+      "dificuldade": 3
+    },
+    {
+      "id": 34,
+      "texto": "Quem foi o primeiro cientista a descrever a gravidade?",
+      "alternativas": [
+        "Isaac Newton",
+        "Galileu Galilei",
+        "Johannes Kepler",
+        "Tycho Brahe"
+      ],
+      "resposta_correta": 0,
+      "dificuldade": 3
+    },
+    {
+      "id": 35,
+      "texto": "Qual é o nome do fenômeno que ocorre quando a luz é dividida em suas cores?",
+      "alternativas": ["Dispersão", "Refração", "Difração", "Polarização"],
+      "resposta_correta": 0,
+      "dificuldade": 3
+    },
+    {
+      "id": 36,
+      "texto": "Qual o cientista que descobriu o elétron?",
+      "alternativas": [
+        "J.J. Thomson",
+        "Niels Bohr",
+        "Ernest Rutherford",
+        "Marie Curie"
+      ],
+      "resposta_correta": 0,
+      "dificuldade": 3
+    },
+    {
+      "id": 37,
+      "texto": "Qual é o nome do famoso telescópio espacial lançado em 1990?",
+      "alternativas": ["Hubble", "James Webb", "Kepler", "Spitzer"],
+      "resposta_correta": 0,
+      "dificuldade": 3
+    },
+    {
+      "id": 38,
+      "texto": "O que é um quark?",
+      "alternativas": [
+        "Partícula subatômica",
+        "Unidade de energia",
+        "Tipo de molécula",
+        "Forma de luz"
+      ],
+      "resposta_correta": 0,
+      "dificuldade": 3
+    },
+    {
+      "id": 39,
+      "texto": "Qual é a unidade de medida da frequência?",
+      "alternativas": ["Hertz", "Joule", "Newton", "Pascal"],
+      "resposta_correta": 0,
+      "dificuldade": 3
+    },
+    {
+      "id": 40,
+      "texto": "Qual é o nome do primeiro rover a explorar Marte?",
+      "alternativas": ["Sojourner", "Curiosity", "Spirit", "Opportunity"],
+      "resposta_correta": 0,
+      "dificuldade": 3
+    },
+    {
+      "id": 41,
+      "texto": "Qual o cientista que desenvolveu a vacina contra a raiva?",
+      "alternativas": [
+        "Louis Pasteur",
+        "Alexander Fleming",
+        "Edward Jenner",
+        "Robert Koch"
+      ],
+      "resposta_correta": 0,
+      "dificuldade": 3
+    },
+    {
+      "id": 42,
+      "texto": "Qual é o nome da partícula responsável pela força nuclear forte?",
+      "alternativas": ["Glúon", "Bóson", "Elétron", "Próton"],
+      "resposta_correta": 0,
+      "dificuldade": 3
+    },
+    {
+      "id": 43,
+      "texto": "Qual é o nome do fenômeno de emissão de luz por organismos vivos?",
+      "alternativas": [
+        "Bioluminescência",
+        "Quimioluminescência",
+        "Fluorescência",
+        "Fosforescência"
+      ],
+      "resposta_correta": 0,
+      "dificuldade": 3
+    },
+    {
+      "id": 44,
+      "texto": "Qual o cientista que ganhou dois prêmios Nobel em áreas diferentes?",
+      "alternativas": [
+        "Marie Curie",
+        "Albert Einstein",
+        "Linus Pauling",
+        "Erwin Schrödinger"
+      ],
+      "resposta_correta": 0,
+      "dificuldade": 3
+    },
+    {
+      "id": 45,
+      "texto": "Qual é o nome do sistema de navegação baseado em satélites?",
+      "alternativas": ["GPS", "Wi-Fi", "Radar", "Bluetooth"],
+      "resposta_correta": 0,
+      "dificuldade": 3
+    },
+    {
+      "id": 46,
+      "texto": "O que significa \"Big Bang\" na ciência?",
+      "alternativas": [
+        "Origem do universo",
+        "Colapso de uma estrela",
+        "Explosão de uma galáxia",
+        "Fim do universo"
+      ],
+      "resposta_correta": 0,
+      "dificuldade": 3
+    },
+    {
+      "id": 47,
+      "texto": "Qual é o nome do primeiro humano a viajar para o espaço?",
+      "alternativas": [
+        "Yuri Gagarin",
+        "Neil Armstrong",
+        "Buzz Aldrin",
+        "Alan Shepard"
+      ],
+      "resposta_correta": 0,
+      "dificuldade": 3
+    },
+    {
+      "id": 48,
+      "texto": "O que é um buraco negro?",
+      "alternativas": [
+        "Região do espaço onde a gravidade é tão forte que nada escapa",
+        "Uma estrela em colapso",
+        "Um ponto de energia extrema",
+        "Um fenômeno cósmico visível"
+      ],
+      "resposta_correta": 0,
+      "dificuldade": 3
+    },
+    {
+      "id": 49,
+      "texto": "Qual é o nome da proteína que transporta oxigênio no sangue?",
+      "alternativas": ["Hemoglobina", "Insulina", "Colágeno", "Miosina"],
+      "resposta_correta": 0,
+      "dificuldade": 3
+    },
+    {
+      "id": 50,
+      "texto": "Qual o cientista que desenvolveu o modelo heliocêntrico do sistema solar?",
+      "alternativas": [
+        "Nicolau Copérnico",
+        "Galileu Galilei",
+        "Kepler",
+        "Tycho Brahe"
+      ],
+      "resposta_correta": 0,
+      "dificuldade": 3
+    }
+  ]
+}

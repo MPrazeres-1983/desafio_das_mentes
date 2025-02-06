@@ -1,0 +1,460 @@
+{
+  "categoria": "Alimentação",
+  "perguntas": [
+    {
+      "id": 1,
+      "texto": "Qual é o principal componente da banana?",
+      "alternativas": ["Potássio", "Cálcio", "Ferro", "Zinco"],
+      "resposta_correta": 0,
+      "dificuldade": 1
+    },
+    {
+      "id": 2,
+      "texto": "Qual é a unidade de medida de energia nos alimentos?",
+      "alternativas": ["Caloria", "Joule", "Watts", "BTU"],
+      "resposta_correta": 0,
+      "dificuldade": 1
+    },
+    {
+      "id": 3,
+      "texto": "Qual é o principal ingrediente do pão?",
+      "alternativas": ["Farinha", "Açúcar", "Leite", "Ovo"],
+      "resposta_correta": 0,
+      "dificuldade": 1
+    },
+    {
+      "id": 4,
+      "texto": "Qual é a fonte de vitamina C em alimentos?",
+      "alternativas": ["Frutas cítricas", "Grãos", "Carnes", "Óleos"],
+      "resposta_correta": 0,
+      "dificuldade": 1
+    },
+    {
+      "id": 5,
+      "texto": "Qual é o mineral essencial encontrado no leite?",
+      "alternativas": ["Cálcio", "Potássio", "Sódio", "Magnésio"],
+      "resposta_correta": 0,
+      "dificuldade": 1
+    },
+    {
+      "id": 6,
+      "texto": "Qual é o tipo de gordura considerado saudável para o coração?",
+      "alternativas": [
+        "Gordura insaturada",
+        "Gordura saturada",
+        "Gordura trans",
+        "Nenhuma delas"
+      ],
+      "resposta_correta": 0,
+      "dificuldade": 2
+    },
+    {
+      "id": 7,
+      "texto": "Qual é a principal função das proteínas no corpo humano?",
+      "alternativas": [
+        "Construção e reparo de tecidos",
+        "Fornecer energia",
+        "Hidratação",
+        "Armazenar gordura"
+      ],
+      "resposta_correta": 0,
+      "dificuldade": 2
+    },
+    {
+      "id": 8,
+      "texto": "Que alimento é rico em ômega-3?",
+      "alternativas": ["Peixes", "Frutas cítricas", "Grãos", "Carne vermelha"],
+      "resposta_correta": 0,
+      "dificuldade": 2
+    },
+    {
+      "id": 9,
+      "texto": "Qual é o processo químico que transforma leite em queijo?",
+      "alternativas": [
+        "Fermentação",
+        "Pasteurização",
+        "Evaporação",
+        "Destilação"
+      ],
+      "resposta_correta": 0,
+      "dificuldade": 3
+    },
+    {
+      "id": 10,
+      "texto": "Qual é o nome do açúcar encontrado no leite?",
+      "alternativas": ["Lactose", "Frutose", "Glicose", "Sacarose"],
+      "resposta_correta": 0,
+      "dificuldade": 3
+    },
+    {
+      "id": 11,
+      "texto": "Qual é o principal componente da cenoura?",
+      "alternativas": ["Vitamina A", "Vitamina C", "Ferro", "Cálcio"],
+      "resposta_correta": 0,
+      "dificuldade": 1
+    },
+    {
+      "id": 12,
+      "texto": "Que alimento é a principal fonte de carboidratos?",
+      "alternativas": ["Arroz", "Carne", "Óleo", "Leite"],
+      "resposta_correta": 0,
+      "dificuldade": 1
+    },
+    {
+      "id": 13,
+      "texto": "Que bebida é derivada da fermentação da uva?",
+      "alternativas": ["Vinho", "Cerveja", "Rum", "Whisky"],
+      "resposta_correta": 0,
+      "dificuldade": 1
+    },
+    {
+      "id": 14,
+      "texto": "Qual é o principal ingrediente do chocolate?",
+      "alternativas": ["Cacau", "Leite", "Açúcar", "Baunilha"],
+      "resposta_correta": 0,
+      "dificuldade": 1
+    },
+    {
+      "id": 15,
+      "texto": "Qual a fruta que é conhecida por conter potássio em abundância?",
+      "alternativas": ["Banana", "Maçã", "Laranja", "Uva"],
+      "resposta_correta": 0,
+      "dificuldade": 1
+    },
+    {
+      "id": 16,
+      "texto": "Qual é o principal componente do azeite de oliva?",
+      "alternativas": [
+        "Gordura insaturada",
+        "Gordura saturada",
+        "Proteína",
+        "Fibra"
+      ],
+      "resposta_correta": 0,
+      "dificuldade": 1
+    },
+    {
+      "id": 17,
+      "texto": "Qual o alimento que é usado para fazer tofu?",
+      "alternativas": ["Soja", "Trigo", "Milho", "Amendoim"],
+      "resposta_correta": 0,
+      "dificuldade": 1
+    },
+    {
+      "id": 18,
+      "texto": "Qual o mineral que é essencial para prevenir anemia?",
+      "alternativas": ["Ferro", "Cálcio", "Zinco", "Sódio"],
+      "resposta_correta": 0,
+      "dificuldade": 1
+    },
+    {
+      "id": 19,
+      "texto": "Qual é o principal ingrediente do sushi?",
+      "alternativas": ["Arroz", "Peixe", "Alga", "Soja"],
+      "resposta_correta": 0,
+      "dificuldade": 1
+    },
+    {
+      "id": 20,
+      "texto": "Qual é a função principal da fibra na dieta?",
+      "alternativas": [
+        "Auxiliar na digestão",
+        "Fornecer energia",
+        "Construir músculos",
+        "Fortalecer ossos"
+      ],
+      "resposta_correta": 0,
+      "dificuldade": 1
+    },
+    {
+      "id": 21,
+      "texto": "Qual a vitamina que é produzida quando a pele é exposta ao sol?",
+      "alternativas": [
+        "Vitamina D",
+        "Vitamina C",
+        "Vitamina A",
+        "Vitamina B12"
+      ],
+      "resposta_correta": 0,
+      "dificuldade": 2
+    },
+    {
+      "id": 22,
+      "texto": "Qual o alimento que é rico em antioxidantes?",
+      "alternativas": ["Mirtilos", "Carne", "Manteiga", "Sal"],
+      "resposta_correta": 0,
+      "dificuldade": 2
+    },
+    {
+      "id": 23,
+      "texto": "Qual é o principal componente do sal de cozinha?",
+      "alternativas": [
+        "Cloreto de sódio",
+        "Sulfato de cálcio",
+        "Fosfato de potássio",
+        "Bicarbonato de sódio"
+      ],
+      "resposta_correta": 0,
+      "dificuldade": 2
+    },
+    {
+      "id": 24,
+      "texto": "Qual o processo que é usado para remover bactérias do leite?",
+      "alternativas": [
+        "Pasteurização",
+        "Fermentação",
+        "Destilação",
+        "Refinação"
+      ],
+      "resposta_correta": 0,
+      "dificuldade": 2
+    },
+    {
+      "id": 25,
+      "texto": "Qual é o nome do carboidrato encontrado no arroz?",
+      "alternativas": ["Amido", "Frutose", "Lactose", "Sacarose"],
+      "resposta_correta": 0,
+      "dificuldade": 2
+    },
+    {
+      "id": 26,
+      "texto": "Qual o alimento que é uma boa fonte de vitamina E?",
+      "alternativas": ["Nozes", "Carne", "Leite", "Arroz"],
+      "resposta_correta": 0,
+      "dificuldade": 2
+    },
+    {
+      "id": 27,
+      "texto": "Qual o tipo de açúcar que é encontrado nas frutas?",
+      "alternativas": ["Frutose", "Glicose", "Lactose", "Sacarose"],
+      "resposta_correta": 0,
+      "dificuldade": 2
+    },
+    {
+      "id": 28,
+      "texto": "Qual é o principal ácido encontrado no vinagre?",
+      "alternativas": [
+        "Ácido acético",
+        "Ácido cítrico",
+        "Ácido lático",
+        "Ácido málico"
+      ],
+      "resposta_correta": 0,
+      "dificuldade": 2
+    },
+    {
+      "id": 29,
+      "texto": "Qual o óleo vegetal que é conhecido por ter ômega-6?",
+      "alternativas": [
+        "Óleo de girassol",
+        "Óleo de coco",
+        "Óleo de palma",
+        "Óleo de oliva"
+      ],
+      "resposta_correta": 0,
+      "dificuldade": 2
+    },
+    {
+      "id": 30,
+      "texto": "Qual é a principal função da água no corpo humano?",
+      "alternativas": [
+        "Regular a temperatura corporal",
+        "Fornecer energia",
+        "Construir músculos",
+        "Armazenar gordura"
+      ],
+      "resposta_correta": 0,
+      "dificuldade": 2
+    },
+    {
+      "id": 31,
+      "texto": "Qual a técnica culinária que envolve cozinhar alimentos em baixas temperaturas em banho-maria?",
+      "alternativas": ["Sous-vide", "Fermentação", "Fritura", "Braseado"],
+      "resposta_correta": 0,
+      "dificuldade": 3
+    },
+    {
+      "id": 32,
+      "texto": "Qual o alimento que é usado para produzir miso?",
+      "alternativas": ["Soja", "Arroz", "Batata", "Cevada"],
+      "resposta_correta": 0,
+      "dificuldade": 3
+    },
+    {
+      "id": 33,
+      "texto": "Qual é o nome do processo de caramelização do açúcar?",
+      "alternativas": [
+        "Reação de Maillard",
+        "Destilação",
+        "Oxidação",
+        "Fermentação"
+      ],
+      "resposta_correta": 0,
+      "dificuldade": 3
+    },
+    {
+      "id": 34,
+      "texto": "Qual o componente do vinho tinto que é benéfico para o coração?",
+      "alternativas": ["Resveratrol", "Taninos", "Polifenóis", "Ácido málico"],
+      "resposta_correta": 0,
+      "dificuldade": 3
+    },
+    {
+      "id": 35,
+      "texto": "Qual é o nome do processo químico pelo qual o pão cresce?",
+      "alternativas": [
+        "Fermentação alcoólica",
+        "Oxidação",
+        "Destilação",
+        "Hidrólise"
+      ],
+      "resposta_correta": 0,
+      "dificuldade": 3
+    },
+    {
+      "id": 36,
+      "texto": "Que bactéria é usada para produzir iogurte?",
+      "alternativas": [
+        "Lactobacillus",
+        "Escherichia coli",
+        "Streptococcus",
+        "Bacillus subtilis"
+      ],
+      "resposta_correta": 0,
+      "dificuldade": 3
+    },
+    {
+      "id": 37,
+      "texto": "Qual é o nome do composto químico responsável pelo sabor picante da pimenta?",
+      "alternativas": ["Capsaicina", "Piperina", "Curcumina", "Cumarina"],
+      "resposta_correta": 0,
+      "dificuldade": 3
+    },
+    {
+      "id": 38,
+      "texto": "Qual é o principal tipo de gordura encontrada no óleo de coco?",
+      "alternativas": [
+        "Gordura saturada",
+        "Gordura insaturada",
+        "Gordura trans",
+        "Gordura poli-insaturada"
+      ],
+      "resposta_correta": 0,
+      "dificuldade": 3
+    },
+    {
+      "id": 39,
+      "texto": "Qual é o método usado para separar líquidos com diferentes pontos de ebulição?",
+      "alternativas": [
+        "Destilação",
+        "Evaporação",
+        "Fermentação",
+        "Pasteurização"
+      ],
+      "resposta_correta": 0,
+      "dificuldade": 3
+    },
+    {
+      "id": 40,
+      "texto": "Qual é o principal componente do soro do leite?",
+      "alternativas": ["Proteína", "Lactose", "Gordura", "Cálcio"],
+      "resposta_correta": 0,
+      "dificuldade": 3
+    },
+    {
+      "id": 41,
+      "texto": "Qual é o nome da reação que dá sabor aos alimentos grelhados?",
+      "alternativas": [
+        "Reação de Maillard",
+        "Caramelização",
+        "Oxidação",
+        "Evaporação"
+      ],
+      "resposta_correta": 0,
+      "dificuldade": 3
+    },
+    {
+      "id": 42,
+      "texto": "Qual é o principal ácido encontrado no limão?",
+      "alternativas": [
+        "Ácido cítrico",
+        "Ácido acético",
+        "Ácido lático",
+        "Ácido ascórbico"
+      ],
+      "resposta_correta": 0,
+      "dificuldade": 3
+    },
+    {
+      "id": 43,
+      "texto": "Qual é o processo pelo qual as batatas são transformadas em chips?",
+      "alternativas": [
+        "Fritura profunda",
+        "Hidrólise",
+        "Pasteurização",
+        "Oxidação"
+      ],
+      "resposta_correta": 0,
+      "dificuldade": 3
+    },
+    {
+      "id": 44,
+      "texto": "Qual é o nome da técnica japonesa de preparar peixe cru?",
+      "alternativas": ["Sashimi", "Sushi", "Temaki", "Nigiri"],
+      "resposta_correta": 0,
+      "dificuldade": 3
+    },
+    {
+      "id": 45,
+      "texto": "Qual é o composto que causa o sabor umami nos alimentos?",
+      "alternativas": ["Glutamato", "Sacarose", "Capsaicina", "Piperina"],
+      "resposta_correta": 0,
+      "dificuldade": 3
+    },
+    {
+      "id": 46,
+      "texto": "Qual é o nome do método de conservação usado para fazer carne seca?",
+      "alternativas": [
+        "Desidratação",
+        "Fermentação",
+        "Pasteurização",
+        "Destilação"
+      ],
+      "resposta_correta": 0,
+      "dificuldade": 3
+    },
+    {
+      "id": 47,
+      "texto": "Qual é o nome do processo químico que ocorre quando as maçãs ficam marrons?",
+      "alternativas": [
+        "Oxidação",
+        "Fermentação",
+        "Caramelização",
+        "Destilação"
+      ],
+      "resposta_correta": 0,
+      "dificuldade": 3
+    },
+    {
+      "id": 48,
+      "texto": "Qual é o principal componente do mel?",
+      "alternativas": ["Frutose", "Glicose", "Sacarose", "Maltose"],
+      "resposta_correta": 0,
+      "dificuldade": 3
+    },
+    {
+      "id": 49,
+      "texto": "Que tipo de grão é usado para fazer cerveja?",
+      "alternativas": ["Cevada", "Trigo", "Milho", "Arroz"],
+      "resposta_correta": 0,
+      "dificuldade": 3
+    },
+    {
+      "id": 50,
+      "texto": "Qual é o mineral essencial encontrado em frutos do mar?",
+      "alternativas": ["Iodo", "Cálcio", "Ferro", "Magnésio"],
+      "resposta_correta": 0,
+      "dificuldade": 3
+    }
+  ]
+}

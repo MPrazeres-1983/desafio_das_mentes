@@ -1,0 +1,460 @@
+{
+  "categoria": "Desporto",
+  "perguntas": [
+    {
+      "id": 1,
+      "texto": "Quantas vezes o Brasil venceu a Taça do Mundo de Futebol?",
+      "alternativas": ["5", "4", "3", "6"],
+      "resposta_correta": 0,
+      "dificuldade": 1
+    },
+    {
+      "id": 2,
+      "texto": "Qual é o desporto mais popular do mundo?",
+      "alternativas": ["Futebol", "Basquete", "Críquete", "Ténis"],
+      "resposta_correta": 0,
+      "dificuldade": 1
+    },
+    {
+      "id": 3,
+      "texto": "Em que país ocorreram os Jogos Olímpicos de 2016?",
+      "alternativas": ["Brasil", "China", "Grécia", "Japão"],
+      "resposta_correta": 0,
+      "dificuldade": 1
+    },
+    {
+      "id": 4,
+      "texto": "Quantos jogadores formam uma equipa titular no futebol?",
+      "alternativas": ["11", "10", "9", "12"],
+      "resposta_correta": 0,
+      "dificuldade": 1
+    },
+    {
+      "id": 5,
+      "texto": "Qual é o nome do campeonato de basquete mais famoso do mundo?",
+      "alternativas": ["NBA", "WNBA", "FIBA", "ABL"],
+      "resposta_correta": 0,
+      "dificuldade": 1
+    },
+    {
+      "id": 6,
+      "texto": "Quem ganhou o maior número de medalhas de ouro numa única Olimpíada?",
+      "alternativas": [
+        "Michael Phelps",
+        "Usain Bolt",
+        "Carl Lewis",
+        "Mark Spitz"
+      ],
+      "resposta_correta": 0,
+      "dificuldade": 2
+    },
+    {
+      "id": 7,
+      "texto": "Qual é o torneio de ténis mais antigo do mundo?",
+      "alternativas": [
+        "Wimbledon",
+        "Roland Garros",
+        "US Open",
+        "Australian Open"
+      ],
+      "resposta_correta": 0,
+      "dificuldade": 2
+    },
+    {
+      "id": 8,
+      "texto": "Qual país é conhecido por ser o berço do hóquei no gelo?",
+      "alternativas": ["Canadá", "Rússia", "Suécia", "Estados Unidos"],
+      "resposta_correta": 0,
+      "dificuldade": 2
+    },
+    {
+      "id": 9,
+      "texto": "Quem é conhecido como 'O Rei do Futebol'?",
+      "alternativas": ["Pelé", "Maradona", "Messi", "Cristiano Ronaldo"],
+      "resposta_correta": 0,
+      "dificuldade": 3
+    },
+    {
+      "id": 10,
+      "texto": "Que país ganhou a primeira Taça do Mundo de Futebol?",
+      "alternativas": ["Uruguai", "Argentina", "Brasil", "Itália"],
+      "resposta_correta": 0,
+      "dificuldade": 3
+    },
+    {
+      "id": 11,
+      "texto": "Qual é o desporto praticado no Tour de France?",
+      "alternativas": ["Ciclismo", "Corrida", "Natação", "Atletismo"],
+      "resposta_correta": 0,
+      "dificuldade": 1
+    },
+    {
+      "id": 12,
+      "texto": "Quantos tempos tem uma partida de basquete?",
+      "alternativas": ["4", "2", "3", "5"],
+      "resposta_correta": 0,
+      "dificuldade": 1
+    },
+    {
+      "id": 13,
+      "texto": "Qual é o nome da bola usada no golfe?",
+      "alternativas": [
+        "Bola de golfe",
+        "Disco de golfe",
+        "Bola de campo",
+        "Puck"
+      ],
+      "resposta_correta": 0,
+      "dificuldade": 1
+    },
+    {
+      "id": 14,
+      "texto": "Quantos anéis existem no símbolo dos Jogos Olímpicos?",
+      "alternativas": ["5", "4", "6", "3"],
+      "resposta_correta": 0,
+      "dificuldade": 1
+    },
+    {
+      "id": 15,
+      "texto": "Em que desporto o termo \"strike\" é usado?",
+      "alternativas": ["Bowling", "Baseball", "Golfe", "Ténis"],
+      "resposta_correta": 0,
+      "dificuldade": 1
+    },
+    {
+      "id": 16,
+      "texto": "Qual é o nome do famoso estádio de futebol na Argentina?",
+      "alternativas": [
+        "La Bombonera",
+        "Maracanã",
+        "Camp Nou",
+        "Santiago Bernabéu"
+      ],
+      "resposta_correta": 0,
+      "dificuldade": 1
+    },
+    {
+      "id": 17,
+      "texto": "Qual é o nome do desporto com tacos e bases?",
+      "alternativas": ["Baseball", "Críquete", "Hóquei", "Golfe"],
+      "resposta_correta": 0,
+      "dificuldade": 1
+    },
+    {
+      "id": 18,
+      "texto": "Qual é a superfície do campo usada no torneio Roland Garros?",
+      "alternativas": ["Saibro", "Relva", "Cimento", "Madeira"],
+      "resposta_correta": 0,
+      "dificuldade": 1
+    },
+    {
+      "id": 19,
+      "texto": "Em que país o Sumo é um desporto tradicional?",
+      "alternativas": ["Japão", "China", "Coreia do Sul", "Tailândia"],
+      "resposta_correta": 0,
+      "dificuldade": 1
+    },
+    {
+      "id": 20,
+      "texto": "Qual é o nome da competição anual entre as melhores equipas de clubes de futebol da Europa?",
+      "alternativas": [
+        "Liga dos Campeões",
+        "Copa América",
+        "Copa do Mundo",
+        "Liga das Nações"
+      ],
+      "resposta_correta": 0,
+      "dificuldade": 1
+    },
+    {
+      "id": 21,
+      "texto": "Que jogador de futebol ganhou o prémio Ballon d'Or mais vezes até 2021?",
+      "alternativas": [
+        "Lionel Messi",
+        "Cristiano Ronaldo",
+        "Pelé",
+        "Zinedine Zidane"
+      ],
+      "resposta_correta": 0,
+      "dificuldade": 2
+    },
+    {
+      "id": 22,
+      "texto": "Qual é a distância de uma maratona oficial?",
+      "alternativas": ["42,195 km", "40 km", "50 km", "45 km"],
+      "resposta_correta": 0,
+      "dificuldade": 2
+    },
+    {
+      "id": 23,
+      "texto": "Qual é o nome da competição de rugby mais famosa da Nova Zelândia?",
+      "alternativas": [
+        "Super Rugby",
+        "Six Nations",
+        "Rugby World Cup",
+        "Tri Nations"
+      ],
+      "resposta_correta": 0,
+      "dificuldade": 2
+    },
+    {
+      "id": 24,
+      "texto": "Que país é o maior vencedor da Fórmula 1 em número de construtores?",
+      "alternativas": ["Itália", "Alemanha", "Reino Unido", "Brasil"],
+      "resposta_correta": 0,
+      "dificuldade": 2
+    },
+    {
+      "id": 25,
+      "texto": "Quem foi o primeiro homem a correr 100 metros em menos de 10 segundos?",
+      "alternativas": ["Jim Hines", "Usain Bolt", "Carl Lewis", "Asafa Powell"],
+      "resposta_correta": 0,
+      "dificuldade": 2
+    },
+    {
+      "id": 26,
+      "texto": "Em que ano a NBA foi fundada?",
+      "alternativas": ["1946", "1950", "1936", "1960"],
+      "resposta_correta": 0,
+      "dificuldade": 2
+    },
+    {
+      "id": 27,
+      "texto": "Qual é o nome da jogadora brasileira de futebol eleita melhor do mundo várias vezes?",
+      "alternativas": ["Marta", "Cristiane", "Formiga", "Pretinha"],
+      "resposta_correta": 0,
+      "dificuldade": 2
+    },
+    {
+      "id": 28,
+      "texto": "Qual é a quantidade de jogadores numa equipa de voleibol?",
+      "alternativas": ["6", "5", "7", "8"],
+      "resposta_correta": 0,
+      "dificuldade": 2
+    },
+    {
+      "id": 29,
+      "texto": "Qual é o desporto praticado com um arco e flecha?",
+      "alternativas": [
+        "Tiro com arco",
+        "Tiro desportivo",
+        "Esgrima",
+        "Lançamento de dardo"
+      ],
+      "resposta_correta": 0,
+      "dificuldade": 2
+    },
+    {
+      "id": 30,
+      "texto": "Qual é o nome do maior torneio de críquete do mundo?",
+      "alternativas": [
+        "Cricket World Cup",
+        "The Ashes",
+        "IPL",
+        "Big Bash League"
+      ],
+      "resposta_correta": 0,
+      "dificuldade": 2
+    },
+    {
+      "id": 31,
+      "texto": "Quem é o atleta mais rápido da história nos 100 metros rasos?",
+      "alternativas": [
+        "Usain Bolt",
+        "Carl Lewis",
+        "Yohan Blake",
+        "Justin Gatlin"
+      ],
+      "resposta_correta": 0,
+      "dificuldade": 3
+    },
+    {
+      "id": 32,
+      "texto": "Qual é o nome do nadador brasileiro campeão olímpico nos 50 metros livre?",
+      "alternativas": [
+        "César Cielo",
+        "Thiago Pereira",
+        "Gustavo Borges",
+        "Fernando Scherer"
+      ],
+      "resposta_correta": 0,
+      "dificuldade": 3
+    },
+    {
+      "id": 33,
+      "texto": "Que equipa venceu o primeiro Super Bowl da NFL?",
+      "alternativas": [
+        "Green Bay Packers",
+        "Dallas Cowboys",
+        "Pittsburgh Steelers",
+        "New York Giants"
+      ],
+      "resposta_correta": 0,
+      "dificuldade": 3
+    },
+    {
+      "id": 34,
+      "texto": "Qual é o nome do estádio de críquete mais famoso da Índia?",
+      "alternativas": ["Eden Gardens", "Lord's", "MCG", "Wankhede"],
+      "resposta_correta": 0,
+      "dificuldade": 3
+    },
+    {
+      "id": 35,
+      "texto": "Qual é o nome do recordista de medalhas olímpicas?",
+      "alternativas": [
+        "Michael Phelps",
+        "Usain Bolt",
+        "Carl Lewis",
+        "Mark Spitz"
+      ],
+      "resposta_correta": 0,
+      "dificuldade": 3
+    },
+    {
+      "id": 36,
+      "texto": "Qual foi a primeira cidade a sediar os Jogos Olímpicos Modernos?",
+      "alternativas": ["Atenas", "Paris", "Londres", "Berlim"],
+      "resposta_correta": 0,
+      "dificuldade": 3
+    },
+    {
+      "id": 37,
+      "texto": "Qual é o desporto nacional do Canadá?",
+      "alternativas": ["Hóquei no gelo", "Lacrosse", "Beisebol", "Rugby"],
+      "resposta_correta": 0,
+      "dificuldade": 3
+    },
+    {
+      "id": 38,
+      "texto": "Que piloto de Fórmula 1 é conhecido como \"O Professor\"?",
+      "alternativas": [
+        "Alain Prost",
+        "Ayrton Senna",
+        "Niki Lauda",
+        "Michael Schumacher"
+      ],
+      "resposta_correta": 0,
+      "dificuldade": 3
+    },
+    {
+      "id": 39,
+      "texto": "Qual foi a equipa de futebol vencedor da primeira Champions League?",
+      "alternativas": [
+        "Real Madrid",
+        "Barcelona",
+        "Benfica",
+        "Bayern de Munique"
+      ],
+      "resposta_correta": 0,
+      "dificuldade": 3
+    },
+    {
+      "id": 40,
+      "texto": "Qual é o nome do surfista brasileiro tricampeão mundial?",
+      "alternativas": [
+        "Gabriel Medina",
+        "Italo Ferreira",
+        "Adriano de Souza",
+        "Felipe Toledo"
+      ],
+      "resposta_correta": 0,
+      "dificuldade": 3
+    },
+    {
+      "id": 41,
+      "texto": "Qual é o desporto com origem escocesa praticado em campos grandes com buracos?",
+      "alternativas": ["Golfe", "Rúgbi", "Críquete", "Ténis"],
+      "resposta_correta": 0,
+      "dificuldade": 3
+    },
+    {
+      "id": 42,
+      "texto": "Quem é considerado o maior jogador de basquete da história?",
+      "alternativas": [
+        "Michael Jordan",
+        "LeBron James",
+        "Kobe Bryant",
+        "Magic Johnson"
+      ],
+      "resposta_correta": 0,
+      "dificuldade": 3
+    },
+    {
+      "id": 43,
+      "texto": "Que país ganhou a primeira medalha de ouro olímpica no vólei masculino?",
+      "alternativas": ["URSS", "Brasil", "Itália", "Estados Unidos"],
+      "resposta_correta": 0,
+      "dificuldade": 3
+    },
+    {
+      "id": 44,
+      "texto": "Qual é a corrida de ciclismo mais famosa da Itália?",
+      "alternativas": [
+        "Giro d'Italia",
+        "Tour de France",
+        "Vuelta a España",
+        "Paris-Roubaix"
+      ],
+      "resposta_correta": 0,
+      "dificuldade": 3
+    },
+    {
+      "id": 45,
+      "texto": "Qual é o nome do jogador brasileiro conhecido como \"Fenômeno\"?",
+      "alternativas": ["Ronaldo", "Romário", "Pelé", "Zico"],
+      "resposta_correta": 0,
+      "dificuldade": 3
+    },
+    {
+      "id": 46,
+      "texto": "Em que país foi inventado o badminton?",
+      "alternativas": ["Índia", "China", "Japão", "Reino Unido"],
+      "resposta_correta": 0,
+      "dificuldade": 3
+    },
+    {
+      "id": 47,
+      "texto": "Quantas medalhas de ouro Jesse Owens ganhou nos Jogos Olímpicos de 1936?",
+      "alternativas": ["4", "3", "5", "2"],
+      "resposta_correta": 0,
+      "dificuldade": 3
+    },
+    {
+      "id": 48,
+      "texto": "Qual é o nome do famoso torneio de Ténis realizado em Paris?",
+      "alternativas": [
+        "Roland Garros",
+        "Wimbledon",
+        "US Open",
+        "Australian Open"
+      ],
+      "resposta_correta": 0,
+      "dificuldade": 3
+    },
+    {
+      "id": 49,
+      "texto": "Qual é o nome do maior estádio de futebol do mundo em capacidade?",
+      "alternativas": [
+        "Rungrado 1st of May",
+        "Maracanã",
+        "Camp Nou",
+        "Santiago Bernabéu"
+      ],
+      "resposta_correta": 0,
+      "dificuldade": 3
+    },
+    {
+      "id": 50,
+      "texto": "Qual é o nome do movimento usado por ginastas para girar no ar sem as mãos?",
+      "alternativas": [
+        "Salto mortal",
+        "Salto carpado",
+        "Duplo twist",
+        "Meia-lua"
+      ],
+      "resposta_correta": 0,
+      "dificuldade": 3
+    }
+  ]
+}

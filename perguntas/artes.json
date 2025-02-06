@@ -1,0 +1,500 @@
+{
+  "categoria": "Artes",
+  "perguntas": [
+    {
+      "id": 1,
+      "texto": "Quem pintou a Mona Lisa?",
+      "alternativas": [
+        "Leonardo da Vinci",
+        "Michelangelo",
+        "Picasso",
+        "Van Gogh"
+      ],
+      "resposta_correta": 0,
+      "dificuldade": 1
+    },
+    {
+      "id": 2,
+      "texto": "Qual é a capital mundial do cinema?",
+      "alternativas": ["Los Angeles", "Paris", "Nova York", "Londres"],
+      "resposta_correta": 0,
+      "dificuldade": 1
+    },
+    {
+      "id": 3,
+      "texto": "Quem escreveu a peça 'Hamlet'?",
+      "alternativas": [
+        "Shakespeare",
+        "Dante Alighieri",
+        "Victor Hugo",
+        "Goethe"
+      ],
+      "resposta_correta": 0,
+      "dificuldade": 1
+    },
+    {
+      "id": 4,
+      "texto": "Qual é o estilo de arte de Salvador Dalí?",
+      "alternativas": [
+        "Surrealismo",
+        "Cubismo",
+        "Impressionismo",
+        "Expressionismo"
+      ],
+      "resposta_correta": 0,
+      "dificuldade": 1
+    },
+    {
+      "id": 5,
+      "texto": "Qual é o instrumento principal de uma orquestra sinfônica?",
+      "alternativas": ["Violino", "Piano", "Flauta", "Trompete"],
+      "resposta_correta": 0,
+      "dificuldade": 1
+    },
+    {
+      "id": 6,
+      "texto": "Quem pintou o teto da Capela Sistina?",
+      "alternativas": [
+        "Michelangelo",
+        "Leonardo da Vinci",
+        "Raphael",
+        "Donatello"
+      ],
+      "resposta_correta": 0,
+      "dificuldade": 2
+    },
+    {
+      "id": 7,
+      "texto": "Qual movimento artístico é associado a Claude Monet?",
+      "alternativas": [
+        "Impressionismo",
+        "Expressionismo",
+        "Surrealismo",
+        "Futurismo"
+      ],
+      "resposta_correta": 0,
+      "dificuldade": 2
+    },
+    {
+      "id": 8,
+      "texto": "Qual foi o primeiro filme a ganhar o Oscar de Melhor Filme?",
+      "alternativas": [
+        "Wings",
+        "Gone with the Wind",
+        "The Godfather",
+        "Casablanca"
+      ],
+      "resposta_correta": 0,
+      "dificuldade": 2
+    },
+    {
+      "id": 9,
+      "texto": "Qual pintor cortou sua própria orelha?",
+      "alternativas": ["Van Gogh", "Picasso", "Cézanne", "Renoir"],
+      "resposta_correta": 0,
+      "dificuldade": 3
+    },
+    {
+      "id": 10,
+      "texto": "Qual artista pintou a 'Guernica'?",
+      "alternativas": ["Picasso", "Goya", "Matisse", "Dalí"],
+      "resposta_correta": 0,
+      "dificuldade": 3
+    },
+    {
+      "id": 11,
+      "texto": "Qual instrumento é conhecido como \"o rei dos instrumentos\"?",
+      "alternativas": ["Órgão", "Violão", "Trombone", "Saxofone"],
+      "resposta_correta": 0,
+      "dificuldade": 1
+    },
+    {
+      "id": 12,
+      "texto": "Quem pintou a obra \"A Última Ceia\"?",
+      "alternativas": [
+        "Leonardo da Vinci",
+        "Botticelli",
+        "Donatello",
+        "Tintoretto"
+      ],
+      "resposta_correta": 0,
+      "dificuldade": 1
+    },
+    {
+      "id": 13,
+      "texto": "Qual artista é famoso por suas pinturas de girassóis?",
+      "alternativas": ["Van Gogh", "Monet", "Degas", "Manet"],
+      "resposta_correta": 0,
+      "dificuldade": 1
+    },
+    {
+      "id": 14,
+      "texto": "Quem é considerado o pai do balé moderno?",
+      "alternativas": [
+        "Mikhail Baryshnikov",
+        "George Balanchine",
+        "Rudolf Nureyev",
+        "Vaslav Nijinsky"
+      ],
+      "resposta_correta": 1,
+      "dificuldade": 1
+    },
+    {
+      "id": 15,
+      "texto": "Qual é o nome do famoso museu em Paris onde está a Mona Lisa?",
+      "alternativas": ["Louvre", "D'Orsay", "Prado", "Hermitage"],
+      "resposta_correta": 0,
+      "dificuldade": 1
+    },
+    {
+      "id": 16,
+      "texto": "Qual é o nome da técnica artística de pintar em paredes úmidas?",
+      "alternativas": ["Fresco", "Óleo", "Aquarela", "Gravura"],
+      "resposta_correta": 0,
+      "dificuldade": 1
+    },
+    {
+      "id": 17,
+      "texto": "Quem compôs a obra \"As Quatro Estações\"?",
+      "alternativas": ["Vivaldi", "Bach", "Mozart", "Beethoven"],
+      "resposta_correta": 0,
+      "dificuldade": 1
+    },
+    {
+      "id": 18,
+      "texto": "Qual pintor é famoso por suas obras pontilhistas?",
+      "alternativas": ["Georges Seurat", "Degas", "Cézanne", "Gauguin"],
+      "resposta_correta": 0,
+      "dificuldade": 1
+    },
+    {
+      "id": 19,
+      "texto": "Quem escreveu o livro \"A Divina Comédia\"?",
+      "alternativas": [
+        "Dante Alighieri",
+        "Petrarca",
+        "Boccaccio",
+        "Victor Hugo"
+      ],
+      "resposta_correta": 0,
+      "dificuldade": 1
+    },
+    {
+      "id": 20,
+      "texto": "Qual é o nome da escultura grega que representa uma mulher sem braços?",
+      "alternativas": [
+        "Vênus de Milo",
+        "Vitória de Samotrácia",
+        "Discóbolo",
+        "Afrodite de Cnido"
+      ],
+      "resposta_correta": 0,
+      "dificuldade": 1
+    },
+    {
+      "id": 21,
+      "texto": "Qual é o movimento artístico de Vincent van Gogh?",
+      "alternativas": [
+        "Pós-impressionismo",
+        "Cubismo",
+        "Realismo",
+        "Expressionismo"
+      ],
+      "resposta_correta": 0,
+      "dificuldade": 2
+    },
+    {
+      "id": 22,
+      "texto": "Qual filme animado ganhou o primeiro Oscar de Melhor Animação?",
+      "alternativas": [
+        "Shrek",
+        "Toy Story",
+        "Procurando Nemo",
+        "A Bela e a Fera"
+      ],
+      "resposta_correta": 0,
+      "dificuldade": 2
+    },
+    {
+      "id": 23,
+      "texto": "Quem pintou \"A Escola de Atenas\"?",
+      "alternativas": [
+        "Raphael",
+        "Michelangelo",
+        "Leonardo da Vinci",
+        "Donatello"
+      ],
+      "resposta_correta": 0,
+      "dificuldade": 2
+    },
+    {
+      "id": 24,
+      "texto": "Qual é o nome do teatro mais famoso de ópera em Milão?",
+      "alternativas": [
+        "La Scala",
+        "Metropolitan Opera",
+        "Royal Opera House",
+        "Bolshoi"
+      ],
+      "resposta_correta": 0,
+      "dificuldade": 2
+    },
+    {
+      "id": 25,
+      "texto": "Quem dirigiu o filme \"Cidadão Kane\"?",
+      "alternativas": [
+        "Orson Welles",
+        "Stanley Kubrick",
+        "Alfred Hitchcock",
+        "Steven Spielberg"
+      ],
+      "resposta_correta": 0,
+      "dificuldade": 2
+    },
+    {
+      "id": 26,
+      "texto": "Qual artista criou a escultura \"O Pensador\"?",
+      "alternativas": ["Auguste Rodin", "Donatello", "Bernini", "Michelangelo"],
+      "resposta_correta": 0,
+      "dificuldade": 2
+    },
+    {
+      "id": 27,
+      "texto": "Qual era o nome do famoso teatro de Shakespeare?",
+      "alternativas": ["The Globe", "The Royal", "The Blackfriars", "The Swan"],
+      "resposta_correta": 0,
+      "dificuldade": 2
+    },
+    {
+      "id": 28,
+      "texto": "Quem é conhecido como \"o pai da música clássica\"?",
+      "alternativas": ["Bach", "Mozart", "Beethoven", "Haydn"],
+      "resposta_correta": 3,
+      "dificuldade": 2
+    },
+    {
+      "id": 29,
+      "texto": "Qual técnica foi usada na pintura \"A Noite Estrelada\"?",
+      "alternativas": [
+        "Espatulado",
+        "Pontilhismo",
+        "Impressionismo",
+        "Pós-impressionismo"
+      ],
+      "resposta_correta": 3,
+      "dificuldade": 2
+    },
+    {
+      "id": 30,
+      "texto": "Qual artista é associado ao movimento \"Pop Art\"?",
+      "alternativas": [
+        "Andy Warhol",
+        "Roy Lichtenstein",
+        "Jasper Johns",
+        "Keith Haring"
+      ],
+      "resposta_correta": 0,
+      "dificuldade": 2
+    },
+    {
+      "id": 31,
+      "texto": "Quem pintou a \"Ceia em Emaús\"?",
+      "alternativas": ["Caravaggio", "Titian", "El Greco", "Rubens"],
+      "resposta_correta": 0,
+      "dificuldade": 3
+    },
+    {
+      "id": 32,
+      "texto": "Qual é a origem do balé clássico?",
+      "alternativas": ["França", "Itália", "Rússia", "Espanha"],
+      "resposta_correta": 1,
+      "dificuldade": 3
+    },
+    {
+      "id": 33,
+      "texto": "Quem escreveu a ópera \"O Barbeiro de Sevilha\"?",
+      "alternativas": ["Rossini", "Mozart", "Puccini", "Verdi"],
+      "resposta_correta": 0,
+      "dificuldade": 3
+    },
+    {
+      "id": 34,
+      "texto": "Qual é o nome completo de Michelangelo?",
+      "alternativas": [
+        "Michelangelo Buonarroti",
+        "Michelangelo Donatelli",
+        "Michelangelo di Milano",
+        "Michelangelo di Medici"
+      ],
+      "resposta_correta": 0,
+      "dificuldade": 3
+    },
+    {
+      "id": 35,
+      "texto": "Quem compôs a ópera \"O Anel do Nibelungo\"?",
+      "alternativas": [
+        "Richard Wagner",
+        "Giuseppe Verdi",
+        "Johann Strauss",
+        "Giacomo Puccini"
+      ],
+      "resposta_correta": 0,
+      "dificuldade": 3
+    },
+    {
+      "id": 36,
+      "texto": "Quem criou a escultura \"David\"?",
+      "alternativas": ["Michelangelo", "Donatello", "Bernini", "Verrocchio"],
+      "resposta_correta": 0,
+      "dificuldade": 3
+    },
+    {
+      "id": 37,
+      "texto": "Qual é o nome da pintura mais famosa de Edward Hopper?",
+      "alternativas": [
+        "Nighthawks",
+        "Early Sunday Morning",
+        "Automat",
+        "House by the Railroad"
+      ],
+      "resposta_correta": 0,
+      "dificuldade": 3
+    },
+    {
+      "id": 38,
+      "texto": "Qual movimento artístico influenciou as obras de Pablo Picasso?",
+      "alternativas": [
+        "Arte africana",
+        "Romantismo",
+        "Surrealismo",
+        "Futurismo"
+      ],
+      "resposta_correta": 0,
+      "dificuldade": 3
+    },
+    {
+      "id": 39,
+      "texto": "Qual é o nome do famoso museu na cidade de Amsterdã dedicado a Van Gogh?",
+      "alternativas": [
+        "Museu Van Gogh",
+        "Rijksmuseum",
+        "Mauritshuis",
+        "Kunsthistorisches"
+      ],
+      "resposta_correta": 0,
+      "dificuldade": 3
+    },
+    {
+      "id": 40,
+      "texto": "Quem escreveu a peça \"Esperando Godot\"?",
+      "alternativas": [
+        "Samuel Beckett",
+        "Tennessee Williams",
+        "Arthur Miller",
+        "Eugene O'Neill"
+      ],
+      "resposta_correta": 0,
+      "dificuldade": 3
+    },
+    {
+      "id": 41,
+      "texto": "Qual é o nome do filme italiano que ganhou o Oscar de Melhor Filme Estrangeiro em 1999?",
+      "alternativas": [
+        "A Vida é Bela",
+        "Cinema Paradiso",
+        "8½",
+        "La Dolce Vita"
+      ],
+      "resposta_correta": 0,
+      "dificuldade": 3
+    },
+    {
+      "id": 42,
+      "texto": "Quem compôs a ópera \"La Traviata\"?",
+      "alternativas": ["Verdi", "Puccini", "Donizetti", "Bellini"],
+      "resposta_correta": 0,
+      "dificuldade": 3
+    },
+    {
+      "id": 43,
+      "texto": "Quem pintou \"O Jardim das Delícias Terrenas\"?",
+      "alternativas": [
+        "Hieronymus Bosch",
+        "Pieter Bruegel",
+        "Jan van Eyck",
+        "Albrecht Dürer"
+      ],
+      "resposta_correta": 0,
+      "dificuldade": 3
+    },
+    {
+      "id": 44,
+      "texto": "Qual é o movimento artístico associado a Jackson Pollock?",
+      "alternativas": [
+        "Expressionismo abstrato",
+        "Surrealismo",
+        "Cubismo",
+        "Futurismo"
+      ],
+      "resposta_correta": 0,
+      "dificuldade": 3
+    },
+    {
+      "id": 45,
+      "texto": "Quem foi o autor de \"Dom Quixote\"?",
+      "alternativas": [
+        "Miguel de Cervantes",
+        "Garcia Lorca",
+        "Lope de Vega",
+        "Fernando Pessoa"
+      ],
+      "resposta_correta": 0,
+      "dificuldade": 3
+    },
+    {
+      "id": 46,
+      "texto": "Quem é o autor da peça \"A Gaivota\"?",
+      "alternativas": [
+        "Anton Chekhov",
+        "Henrik Ibsen",
+        "August Strindberg",
+        "Molière"
+      ],
+      "resposta_correta": 0,
+      "dificuldade": 3
+    },
+    {
+      "id": 47,
+      "texto": "Qual é o nome do pintor renascentista conhecido por \"O Nascimento de Vênus\"?",
+      "alternativas": ["Botticelli", "Giotto", "Titian", "Caravaggio"],
+      "resposta_correta": 0,
+      "dificuldade": 3
+    },
+    {
+      "id": 48,
+      "texto": "Quem pintou \"A Persistência da Memória\"?",
+      "alternativas": ["Salvador Dalí", "Magritte", "Picasso", "Miró"],
+      "resposta_correta": 0,
+      "dificuldade": 3
+    },
+    {
+      "id": 49,
+      "texto": "Qual é a técnica usada na obra \"Guernica\" de Picasso?",
+      "alternativas": ["Óleo sobre tela", "Têmpera", "Gravura", "Carvão"],
+      "resposta_correta": 0,
+      "dificuldade": 3
+    },
+    {
+      "id": 50,
+      "texto": "Qual é o tema principal da escultura \"Pietà\" de Michelangelo?",
+      "alternativas": [
+        "Maria segurando Jesus após a crucificação",
+        "O nascimento de Jesus",
+        "Jesus na cruz",
+        "Maria e o anjo Gabriel"
+      ],
+      "resposta_correta": 0,
+      "dificuldade": 3
+    }
+  ]
+}

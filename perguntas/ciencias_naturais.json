@@ -1,0 +1,445 @@
+{
+  "categoria": "Ciências Naturais",
+  "perguntas": [
+    {
+      "id": 1,
+      "texto": "Qual é o maior mamífero do mundo?",
+      "alternativas": ["Baleia-azul", "Elefante", "Orca", "Hipopótamo"],
+      "resposta_correta": 0,
+      "dificuldade": 1
+    },
+    {
+      "id": 2,
+      "texto": "Qual é o nome do processo pelo qual as plantas produzem alimento?",
+      "alternativas": [
+        "Fotossíntese",
+        "Respiração",
+        "Transpiração",
+        "Fermentação"
+      ],
+      "resposta_correta": 0,
+      "dificuldade": 1
+    },
+    {
+      "id": 3,
+      "texto": "Qual é o gás mais abundante na atmosfera terrestre?",
+      "alternativas": [
+        "Nitrogênio",
+        "Oxigênio",
+        "Dióxido de Carbono",
+        "Hidrogênio"
+      ],
+      "resposta_correta": 0,
+      "dificuldade": 1
+    },
+    {
+      "id": 4,
+      "texto": "Qual a parte da planta que é responsável pela fotossíntese?",
+      "alternativas": ["Folhas", "Raízes", "Caule", "Flores"],
+      "resposta_correta": 0,
+      "dificuldade": 1
+    },
+    {
+      "id": 5,
+      "texto": "Qual é o nome do órgão que bombeia sangue no corpo humano?",
+      "alternativas": ["Coração", "Pulmão", "Fígado", "Cérebro"],
+      "resposta_correta": 0,
+      "dificuldade": 1
+    },
+    {
+      "id": 6,
+      "texto": "Qual é a camada da Terra onde vivemos?",
+      "alternativas": ["Crosta", "Manto", "Núcleo", "Litosfera"],
+      "resposta_correta": 0,
+      "dificuldade": 2
+    },
+    {
+      "id": 7,
+      "texto": "Qual o animal que é conhecido por ter três corações?",
+      "alternativas": ["Polvo", "Cavalo-marinho", "Baleia", "Estrela-do-mar"],
+      "resposta_correta": 0,
+      "dificuldade": 2
+    },
+    {
+      "id": 8,
+      "texto": "Qual é o nome do fenômeno que causa terremotos?",
+      "alternativas": [
+        "Movimento das placas tectônicas",
+        "Vulcanismo",
+        "Erosão",
+        "Mudança climática"
+      ],
+      "resposta_correta": 0,
+      "dificuldade": 2
+    },
+    {
+      "id": 9,
+      "texto": "Qual o cientista que propôs a teoria da evolução por seleção natural?",
+      "alternativas": [
+        "Charles Darwin",
+        "Gregor Mendel",
+        "Isaac Newton",
+        "Louis Pasteur"
+      ],
+      "resposta_correta": 0,
+      "dificuldade": 3
+    },
+    {
+      "id": 10,
+      "texto": "Qual é a unidade básica da vida?",
+      "alternativas": ["Célula", "Átomo", "Molécula", "DNA"],
+      "resposta_correta": 0,
+      "dificuldade": 3
+    },
+    {
+      "id": 11,
+      "texto": "Qual é o menor osso do corpo humano?",
+      "alternativas": ["Estribo", "Fêmur", "Tíbia", "Vértebra"],
+      "resposta_correta": 0,
+      "dificuldade": 1
+    },
+    {
+      "id": 12,
+      "texto": "Qual é o nome dado à água no seu estado gasoso?",
+      "alternativas": ["Vapor de água", "Gelo", "Neve", "Orvalho"],
+      "resposta_correta": 0,
+      "dificuldade": 1
+    },
+    {
+      "id": 13,
+      "texto": "Qual é o principal gás necessário para a respiração humana?",
+      "alternativas": [
+        "Oxigênio",
+        "Nitrogênio",
+        "Hidrogênio",
+        "Dióxido de Carbono"
+      ],
+      "resposta_correta": 0,
+      "dificuldade": 1
+    },
+    {
+      "id": 14,
+      "texto": "Qual é o nome do habitat natural de camelos?",
+      "alternativas": ["Deserto", "Floresta", "Tundra", "Savana"],
+      "resposta_correta": 0,
+      "dificuldade": 1
+    },
+    {
+      "id": 15,
+      "texto": "Qual é o nome do processo em que a água passa de líquida para gasosa?",
+      "alternativas": ["Evaporação", "Condensação", "Fusão", "Solidificação"],
+      "resposta_correta": 0,
+      "dificuldade": 1
+    },
+    {
+      "id": 16,
+      "texto": "Qual o animal que é conhecido como \"rei da selva\"?",
+      "alternativas": ["Leão", "Elefante", "Tigre", "Urso"],
+      "resposta_correta": 0,
+      "dificuldade": 1
+    },
+    {
+      "id": 17,
+      "texto": "Qual é o nome do satélite natural da Terra?",
+      "alternativas": ["Lua", "Sol", "Estrela Polar", "Marte"],
+      "resposta_correta": 0,
+      "dificuldade": 1
+    },
+    {
+      "id": 18,
+      "texto": "Qual é o nome dado a uma área onde um rio encontra o mar?",
+      "alternativas": ["Estuário", "Lagoa", "Delta", "Lago"],
+      "resposta_correta": 0,
+      "dificuldade": 1
+    },
+    {
+      "id": 19,
+      "texto": "Qual o animal que é conhecido pela sua capacidade de mudar de cor?",
+      "alternativas": ["Camaleão", "Polvo", "Sapo", "Borboleta"],
+      "resposta_correta": 0,
+      "dificuldade": 1
+    },
+    {
+      "id": 20,
+      "texto": "Qual é o nome dado ao ciclo de vida de uma borboleta?",
+      "alternativas": [
+        "Metamorfose",
+        "Fertilização",
+        "Germinação",
+        "Transformação"
+      ],
+      "resposta_correta": 0,
+      "dificuldade": 1
+    },
+    {
+      "id": 21,
+      "texto": "Qual é o nome da camada de gases que protege a Terra?",
+      "alternativas": ["Atmosfera", "Estratosfera", "Troposfera", "Litosfera"],
+      "resposta_correta": 0,
+      "dificuldade": 2
+    },
+    {
+      "id": 22,
+      "texto": "Qual é o maior órgão do corpo humano?",
+      "alternativas": ["A pele", "O cérebro", "O fígado", "Os pulmões"],
+      "resposta_correta": 0,
+      "dificuldade": 2
+    },
+    {
+      "id": 23,
+      "texto": "Qual o animal que é conhecido por ser venenoso e ter oito pernas?",
+      "alternativas": ["Aranha", "Escorpião", "Centopeia", "Cavalo-marinho"],
+      "resposta_correta": 0,
+      "dificuldade": 2
+    },
+    {
+      "id": 24,
+      "texto": "Qual é o nome dado aos animais que comem apenas plantas?",
+      "alternativas": ["Herbívoros", "Carnívoros", "Onívoros", "Detritívoros"],
+      "resposta_correta": 0,
+      "dificuldade": 2
+    },
+    {
+      "id": 25,
+      "texto": "Qual é a principal função do esqueleto humano?",
+      "alternativas": [
+        "Suporte e proteção",
+        "Respiração",
+        "Digestão",
+        "Produção de energia"
+      ],
+      "resposta_correta": 0,
+      "dificuldade": 2
+    },
+    {
+      "id": 26,
+      "texto": "Qual é o maior peixe do mundo?",
+      "alternativas": ["Tubarão-baleia", "Orca", "Peixe-espada", "Baleia-azul"],
+      "resposta_correta": 0,
+      "dificuldade": 2
+    },
+    {
+      "id": 27,
+      "texto": "Qual é o nome do fenômeno que ocorre quando a lua bloqueia a luz do sol?",
+      "alternativas": [
+        "Eclipse solar",
+        "Eclipse lunar",
+        "Solstício",
+        "Equinócio"
+      ],
+      "resposta_correta": 0,
+      "dificuldade": 2
+    },
+    {
+      "id": 28,
+      "texto": "Qual é o tipo de sangue conhecido como doador universal?",
+      "alternativas": ["O negativo", "A positivo", "B negativo", "AB positivo"],
+      "resposta_correta": 0,
+      "dificuldade": 2
+    },
+    {
+      "id": 29,
+      "texto": "Qual é o nome do processo pelo qual os gases presos na atmosfera aquecem a Terra?",
+      "alternativas": [
+        "Efeito estufa",
+        "Aquecimento global",
+        "Condensação",
+        "Evaporação"
+      ],
+      "resposta_correta": 0,
+      "dificuldade": 2
+    },
+    {
+      "id": 30,
+      "texto": "Qual é o nome do sistema usado para classificar seres vivos?",
+      "alternativas": ["Taxonomia", "Ecologia", "Biologia", "Botânica"],
+      "resposta_correta": 0,
+      "dificuldade": 2
+    },
+    {
+      "id": 31,
+      "texto": "Qual é o nome da molécula que transporta energia nas células?",
+      "alternativas": ["ATP", "DNA", "RNA", "Enzima"],
+      "resposta_correta": 0,
+      "dificuldade": 3
+    },
+    {
+      "id": 32,
+      "texto": "Qual é o nome do processo pelo qual o DNA faz cópias de si mesmo?",
+      "alternativas": ["Replicação", "Transcrição", "Tradução", "Mutação"],
+      "resposta_correta": 0,
+      "dificuldade": 3
+    },
+    {
+      "id": 33,
+      "texto": "Qual o gás que é liberado pelas plantas durante a fotossíntese?",
+      "alternativas": [
+        "Oxigênio",
+        "Nitrogênio",
+        "Dióxido de carbono",
+        "Hidrogênio"
+      ],
+      "resposta_correta": 0,
+      "dificuldade": 3
+    },
+    {
+      "id": 34,
+      "texto": "Qual o cientista que é conhecido como o \"pai da genética\"?",
+      "alternativas": [
+        "Gregor Mendel",
+        "Charles Darwin",
+        "Francis Crick",
+        "Rosalind Franklin"
+      ],
+      "resposta_correta": 0,
+      "dificuldade": 3
+    },
+    {
+      "id": 35,
+      "texto": "Qual é o nome do fenômeno que ocorre quando a luz muda de direção ao passar por um material?",
+      "alternativas": ["Refração", "Reflexão", "Dispersão", "Absorção"],
+      "resposta_correta": 0,
+      "dificuldade": 3
+    },
+    {
+      "id": 36,
+      "texto": "Qual é o maior deserto do mundo?",
+      "alternativas": [
+        "Deserto do Saara",
+        "Antártida",
+        "Deserto de Gobi",
+        "Deserto do Atacama"
+      ],
+      "resposta_correta": 1,
+      "dificuldade": 3
+    },
+    {
+      "id": 37,
+      "texto": "Qual é o nome do processo pelo qual os líquidos se movem através de membranas semipermeáveis?",
+      "alternativas": ["Osmose", "Difusão", "Evaporação", "Filtração"],
+      "resposta_correta": 0,
+      "dificuldade": 3
+    },
+    {
+      "id": 38,
+      "texto": "Qual é o nome do sistema que regula o equilíbrio interno do corpo?",
+      "alternativas": [
+        "Homeostase",
+        "Metabolismo",
+        "Sistema nervoso",
+        "Sistema digestivo"
+      ],
+      "resposta_correta": 0,
+      "dificuldade": 3
+    },
+    {
+      "id": 39,
+      "texto": "Qual é o tipo de rocha formada pelo resfriamento do magma?",
+      "alternativas": ["Ígnea", "Sedimentar", "Metamórfica", "Cristalina"],
+      "resposta_correta": 0,
+      "dificuldade": 3
+    },
+    {
+      "id": 40,
+      "texto": "Qual é o nome do estudo dos fósseis?",
+      "alternativas": ["Paleontologia", "Arqueologia", "Geologia", "Biologia"],
+      "resposta_correta": 0,
+      "dificuldade": 3
+    },
+    {
+      "id": 41,
+      "texto": "Qual é o nome da camada de ozônio que protege a Terra dos raios UV?",
+      "alternativas": ["Estratosfera", "Troposfera", "Ionosfera", "Mesosfera"],
+      "resposta_correta": 0,
+      "dificuldade": 3
+    },
+    {
+      "id": 42,
+      "texto": "Qual é o nome do tipo de célula que não possui núcleo definido?",
+      "alternativas": ["Procarionte", "Eucarionte", "Neurônio", "Hematócito"],
+      "resposta_correta": 0,
+      "dificuldade": 3
+    },
+    {
+      "id": 43,
+      "texto": "Qual é o nome do maior ecossistema de recifes de coral do mundo?",
+      "alternativas": [
+        "Grande Barreira de Coral",
+        "Mar Vermelho",
+        "Recife de Belize",
+        "Recifes do Caribe"
+      ],
+      "resposta_correta": 0,
+      "dificuldade": 3
+    },
+    {
+      "id": 44,
+      "texto": "Qual é o nome do maior vulcão ativo do mundo?",
+      "alternativas": [
+        "Mauna Loa",
+        "Monte Fuji",
+        "Monte Etna",
+        "Monte Vesúvio"
+      ],
+      "resposta_correta": 0,
+      "dificuldade": 3
+    },
+    {
+      "id": 45,
+      "texto": "Qual o animal que é conhecido por ser bioluminescente?",
+      "alternativas": ["Pirilampo", "Camaleão", "Estrela-do-mar", "Golfinho"],
+      "resposta_correta": 0,
+      "dificuldade": 3
+    },
+    {
+      "id": 46,
+      "texto": "Qual é o nome da camada mais externa da pele humana?",
+      "alternativas": ["Epiderme", "Derme", "Hipoderme", "Tecido subcutâneo"],
+      "resposta_correta": 0,
+      "dificuldade": 3
+    },
+    {
+      "id": 47,
+      "texto": "Qual é o nome do maior rio em volume de água do mundo?",
+      "alternativas": [
+        "Rio Amazonas",
+        "Rio Nilo",
+        "Rio Yangtzé",
+        "Rio Mississipi"
+      ],
+      "resposta_correta": 0,
+      "dificuldade": 3
+    },
+    {
+      "id": 48,
+      "texto": "Qual é o nome do grupo de animais que possuem exoesqueleto?",
+      "alternativas": ["Artrópodes", "Anelídeos", "Moluscos", "Cnidários"],
+      "resposta_correta": 0,
+      "dificuldade": 3
+    },
+    {
+      "id": 49,
+      "texto": "Qual é o nome do cientista que desenvolveu as leis do movimento?",
+      "alternativas": [
+        "Isaac Newton",
+        "Galileu Galilei",
+        "Johannes Kepler",
+        "Charles Darwin"
+      ],
+      "resposta_correta": 0,
+      "dificuldade": 3
+    },
+    {
+      "id": 50,
+      "texto": "Qual é o nome da teoria que explica a origem do universo?",
+      "alternativas": [
+        "Big Bang",
+        "Teoria da Evolução",
+        "Efeito Estufa",
+        "Teoria Quântica"
+      ],
+      "resposta_correta": 0,
+      "dificuldade": 3
+    }
+  ]
+}

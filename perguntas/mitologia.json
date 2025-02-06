@@ -1,0 +1,375 @@
+{
+  "categoria": "Mitologia",
+  "perguntas": [
+    {
+      "id": 1,
+      "texto": "Quem era o deus do trovão na mitologia nórdica?",
+      "alternativas": ["Thor", "Odin", "Loki", "Freya"],
+      "resposta_correta": 0,
+      "dificuldade": 1
+    },
+    {
+      "id": 2,
+      "texto": "Quem era o deus grego do submundo?",
+      "alternativas": ["Hades", "Zeus", "Poseidon", "Ares"],
+      "resposta_correta": 0,
+      "dificuldade": 1
+    },
+    {
+      "id": 3,
+      "texto": "Qual era o nome da rainha dos deuses na mitologia romana?",
+      "alternativas": ["Juno", "Minerva", "Vênus", "Diana"],
+      "resposta_correta": 0,
+      "dificuldade": 1
+    },
+    {
+      "id": 4,
+      "texto": "Qual é o nome do cavalo alado da mitologia grega?",
+      "alternativas": ["Pégaso", "Centauro", "Hipogrifo", "Quimera"],
+      "resposta_correta": 0,
+      "dificuldade": 1
+    },
+    {
+      "id": 5,
+      "texto": "Qual era o nome do herói que derrotou a Medusa?",
+      "alternativas": ["Perseu", "Hércules", "Aquiles", "Teseu"],
+      "resposta_correta": 0,
+      "dificuldade": 1
+    },
+    {
+      "id": 6,
+      "texto": "Qual era o nome do famoso rei, associado à espada de Excalibur?",
+      "alternativas": [
+        "Rei Arthur",
+        "Rei Leónidas",
+        "Rei Midas",
+        "Rei Agamenon"
+      ],
+      "resposta_correta": 0,
+      "dificuldade": 2
+    },
+    {
+      "id": 7,
+      "texto": "Qual era o nome da serpente gigante que Thor lutou no Ragnarök?",
+      "alternativas": ["Jörmungandr", "Fenrir", "Nidhogg", "Kraken"],
+      "resposta_correta": 0,
+      "dificuldade": 2
+    },
+    {
+      "id": 8,
+      "texto": "Quem era o guardião do portão do submundo na mitologia grega?",
+      "alternativas": ["Cérbero", "Hidra", "Sátiro", "Quimera"],
+      "resposta_correta": 0,
+      "dificuldade": 2
+    },
+    {
+      "id": 9,
+      "texto": "Qual era o nome da deusa hindu da destruição e renascimento?",
+      "alternativas": ["Kali", "Lakshmi", "Parvati", "Saraswati"],
+      "resposta_correta": 0,
+      "dificuldade": 3
+    },
+    {
+      "id": 10,
+      "texto": "Qual era o nome do deus asteca do sol e da guerra?",
+      "alternativas": [
+        "Huitzilopochtli",
+        "Quetzalcoatl",
+        "Tezcatlipoca",
+        "Xipe Totec"
+      ],
+      "resposta_correta": 0,
+      "dificuldade": 3
+    },
+    {
+      "id": 11,
+      "texto": "Qual era o nome do deus do céu na mitologia grega?",
+      "alternativas": ["Zeus", "Poseidon", "Cronos", "Apolo"],
+      "resposta_correta": 0,
+      "dificuldade": 1
+    },
+    {
+      "id": 12,
+      "texto": "Quem era o deus romano equivalente a Zeus?",
+      "alternativas": ["Júpiter", "Netuno", "Marte", "Saturno"],
+      "resposta_correta": 0,
+      "dificuldade": 1
+    },
+    {
+      "id": 13,
+      "texto": "Qual era o nome da deusa grega do amor?",
+      "alternativas": ["Afrodite", "Hera", "Ártemis", "Atena"],
+      "resposta_correta": 0,
+      "dificuldade": 1
+    },
+    {
+      "id": 14,
+      "texto": "Quem era o mensageiro dos deuses na mitologia grega?",
+      "alternativas": ["Hermes", "Ares", "Dionísio", "Hades"],
+      "resposta_correta": 0,
+      "dificuldade": 1
+    },
+    {
+      "id": 15,
+      "texto": "Qual era o nome do deus egípcio com cabeça de chacal, associado ao submundo?",
+      "alternativas": ["Anúbis", "Osíris", "Rá", "Hórus"],
+      "resposta_correta": 0,
+      "dificuldade": 1
+    },
+    {
+      "id": 16,
+      "texto": "Quem era o pai de Thor na mitologia nórdica?",
+      "alternativas": ["Odin", "Loki", "Baldur", "Tyr"],
+      "resposta_correta": 0,
+      "dificuldade": 1
+    },
+    {
+      "id": 17,
+      "texto": "Qual era o nome do herói grego que realizou os doze trabalhos?",
+      "alternativas": ["Hércules", "Aquiles", "Perseu", "Teseu"],
+      "resposta_correta": 0,
+      "dificuldade": 1
+    },
+    {
+      "id": 18,
+      "texto": "Qual era o nome da deusa romana da caça?",
+      "alternativas": ["Diana", "Minerva", "Vênus", "Juno"],
+      "resposta_correta": 0,
+      "dificuldade": 1
+    },
+    {
+      "id": 19,
+      "texto": "Qual era o nome do deus egípcio do sol?",
+      "alternativas": ["Rá", "Osíris", "Anúbis", "Set"],
+      "resposta_correta": 0,
+      "dificuldade": 1
+    },
+    {
+      "id": 20,
+      "texto": "Quem era o irmão gémeo de Ártemis na mitologia grega?",
+      "alternativas": ["Apolo", "Hermes", "Ares", "Dionísio"],
+      "resposta_correta": 0,
+      "dificuldade": 1
+    },
+    {
+      "id": 21,
+      "texto": "Qual era o nome do titã que segurava o céu na mitologia grega?",
+      "alternativas": ["Atlas", "Prometeu", "Cronos", "Hipérion"],
+      "resposta_correta": 0,
+      "dificuldade": 2
+    },
+    {
+      "id": 22,
+      "texto": "Quem era o deus grego dos mares?",
+      "alternativas": ["Poseidon", "Hades", "Zeus", "Ares"],
+      "resposta_correta": 0,
+      "dificuldade": 2
+    },
+    {
+      "id": 23,
+      "texto": "Qual era o nome da deusa nórdica associada ao amor e à fertilidade?",
+      "alternativas": ["Freya", "Hel", "Sif", "Idun"],
+      "resposta_correta": 0,
+      "dificuldade": 2
+    },
+    {
+      "id": 24,
+      "texto": "Quem era o deus egípcio da morte e da ressurreição?",
+      "alternativas": ["Osíris", "Anúbis", "Rá", "Set"],
+      "resposta_correta": 0,
+      "dificuldade": 2
+    },
+    {
+      "id": 25,
+      "texto": "Qual era o nome do monstro com corpo de leão, asas de águia e cabeça de mulher na mitologia grega?",
+      "alternativas": ["Esfinge", "Quimera", "Grifo", "Hidra"],
+      "resposta_correta": 0,
+      "dificuldade": 2
+    },
+    {
+      "id": 26,
+      "texto": "Qual era o nome do deus hindu da preservação?",
+      "alternativas": ["Vishnu", "Shiva", "Brahma", "Indra"],
+      "resposta_correta": 0,
+      "dificuldade": 2
+    },
+    {
+      "id": 27,
+      "texto": "Quem era o herói da mitologia grega que matou o Minotauro?",
+      "alternativas": ["Teseu", "Hércules", "Perseu", "Aquiles"],
+      "resposta_correta": 0,
+      "dificuldade": 2
+    },
+    {
+      "id": 28,
+      "texto": "Qual era o nome da árvore do mundo na mitologia nórdica?",
+      "alternativas": ["Yggdrasil", "Nidhogg", "Jötunheim", "Asgard"],
+      "resposta_correta": 0,
+      "dificuldade": 2
+    },
+    {
+      "id": 29,
+      "texto": "Qual era o nome do deus asteca associado ao vento e à sabedoria?",
+      "alternativas": [
+        "Quetzalcoatl",
+        "Huitzilopochtli",
+        "Tezcatlipoca",
+        "Xipe Totec"
+      ],
+      "resposta_correta": 0,
+      "dificuldade": 2
+    },
+    {
+      "id": 30,
+      "texto": "Quem era o deus romano da guerra?",
+      "alternativas": ["Marte", "Netuno", "Júpiter", "Vênus"],
+      "resposta_correta": 0,
+      "dificuldade": 2
+    },
+    {
+      "id": 31,
+      "texto": "Qual era o nome da mãe de Aquiles?",
+      "alternativas": ["Tétis", "Hera", "Afrodite", "Ártemis"],
+      "resposta_correta": 0,
+      "dificuldade": 3
+    },
+    {
+      "id": 32,
+      "texto": "Qual era o nome da ilha onde as Amazonas viviam na mitologia grega?",
+      "alternativas": ["Themyscira", "Delos", "Creta", "Lesbos"],
+      "resposta_correta": 0,
+      "dificuldade": 3
+    },
+    {
+      "id": 33,
+      "texto": "Quem era o deus hindu do fogo?",
+      "alternativas": ["Agni", "Indra", "Varuna", "Shiva"],
+      "resposta_correta": 0,
+      "dificuldade": 3
+    },
+    {
+      "id": 34,
+      "texto": "Qual era o nome do deus maia associado ao sol?",
+      "alternativas": ["Kinich Ahau", "Chaac", "Ixchel", "Hunab Ku"],
+      "resposta_correta": 0,
+      "dificuldade": 3
+    },
+    {
+      "id": 35,
+      "texto": "Qual era o nome do deus nórdico da justiça e da guerra?",
+      "alternativas": ["Tyr", "Odin", "Thor", "Baldur"],
+      "resposta_correta": 0,
+      "dificuldade": 3
+    },
+    {
+      "id": 36,
+      "texto": "Qual era o nome da serpente gigante que devoraria o mundo no Ragnarök?",
+      "alternativas": ["Jörmungandr", "Nidhogg", "Fenrir", "Kraken"],
+      "resposta_correta": 0,
+      "dificuldade": 3
+    },
+    {
+      "id": 37,
+      "texto": "Qual era o nome do deus celta associado aos rios e à fertilidade?",
+      "alternativas": ["Dagda", "Lugh", "Bran", "Cernunnos"],
+      "resposta_correta": 0,
+      "dificuldade": 3
+    },
+    {
+      "id": 38,
+      "texto": "Qual era o nome do gigante que construiu as muralhas de Asgard?",
+      "alternativas": ["Hrimthurs", "Surtur", "Ymir", "Thokk"],
+      "resposta_correta": 0,
+      "dificuldade": 3
+    },
+    {
+      "id": 39,
+      "texto": "Qual era o nome do deus egípcio do caos e da destruição?",
+      "alternativas": ["Set", "Rá", "Osíris", "Hórus"],
+      "resposta_correta": 0,
+      "dificuldade": 3
+    },
+    {
+      "id": 40,
+      "texto": "Qual era o nome do monstro grego com nove cabeças que se regeneravam quando cortadas?",
+      "alternativas": ["Hidra", "Quimera", "Cérbero", "Esfinge"],
+      "resposta_correta": 0,
+      "dificuldade": 3
+    },
+    {
+      "id": 41,
+      "texto": "Qual era o nome do deus etrusco do submundo?",
+      "alternativas": ["Aita", "Tinia", "Turan", "Laran"],
+      "resposta_correta": 0,
+      "dificuldade": 3
+    },
+    {
+      "id": 42,
+      "texto": "Quem era o deus grego do vinho e das festas?",
+      "alternativas": ["Dionísio", "Apolo", "Ares", "Hermes"],
+      "resposta_correta": 0,
+      "dificuldade": 3
+    },
+    {
+      "id": 43,
+      "texto": "Qual era o nome do corvo que servia como mensageiro de Odin?",
+      "alternativas": [
+        "Hugin e Munin",
+        "Skoll e Hati",
+        "Fenrir e Jörmungandr",
+        "Ymir e Thokk"
+      ],
+      "resposta_correta": 0,
+      "dificuldade": 3
+    },
+    {
+      "id": 44,
+      "texto": "Qual era o nome do navio dos Argonautas liderados por Jasão?",
+      "alternativas": ["Argo", "Aquiles", "Héracles", "Pégaso"],
+      "resposta_correta": 0,
+      "dificuldade": 3
+    },
+    {
+      "id": 45,
+      "texto": "Qual era o nome do deus japonês do trovão?",
+      "alternativas": ["Raijin", "Susanoo", "Amaterasu", "Inari"],
+      "resposta_correta": 0,
+      "dificuldade": 3
+    },
+    {
+      "id": 46,
+      "texto": "Quem era a deusa grega da sabedoria e estratégia de guerra?",
+      "alternativas": ["Atena", "Ártemis", "Afrodite", "Hera"],
+      "resposta_correta": 0,
+      "dificuldade": 3
+    },
+    {
+      "id": 47,
+      "texto": "Qual era o nome do deus maia da chuva?",
+      "alternativas": ["Chaac", "Kukulkan", "Kinich Ahau", "Itzamna"],
+      "resposta_correta": 0,
+      "dificuldade": 3
+    },
+    {
+      "id": 48,
+      "texto": "Qual era o nome do deus nórdico associado à poesia?",
+      "alternativas": ["Baldur", "Odin", "Loki", "Bragi"],
+      "resposta_correta": 0,
+      "dificuldade": 3
+    },
+    {
+      "id": 49,
+      "texto": "Qual era o nome do deus romano do comércio e mensageiro dos deuses?",
+      "alternativas": ["Mercúrio", "Marte", "Netuno", "Vênus"],
+      "resposta_correta": 0,
+      "dificuldade": 3
+    },
+    {
+      "id": 50,
+      "texto": "Qual era o nome da deusa hindu da riqueza e prosperidade?",
+      "alternativas": ["Lakshmi", "Saraswati", "Kali", "Parvati"],
+      "resposta_correta": 0,
+      "dificuldade": 3
+    }
+  ]
+}

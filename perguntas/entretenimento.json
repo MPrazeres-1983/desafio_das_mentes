@@ -1,0 +1,510 @@
+{
+  "categoria": "Entretenimento",
+  "perguntas": [
+    {
+      "id": 1,
+      "texto": "Qual é o nome do rato mais famoso criado por Walt Disney?",
+      "alternativas": ["Mickey Mouse", "Pato Donald", "Pluto", "Goofy"],
+      "resposta_correta": 0,
+      "dificuldade": 1
+    },
+    {
+      "id": 2,
+      "texto": "Qual é o nome do super-herói que é um bilionário com armadura tecnológica?",
+      "alternativas": [
+        "Homem de Ferro",
+        "Superman",
+        "Batman",
+        "Capitão América"
+      ],
+      "resposta_correta": 0,
+      "dificuldade": 1
+    },
+    {
+      "id": 3,
+      "texto": "Qual é a série com os personagens Ross, Rachel, Monica, Chandler, Joey e Phoebe?",
+      "alternativas": [
+        "Friends",
+        "How I Met Your Mother",
+        "The Office",
+        "Brooklyn Nine-Nine"
+      ],
+      "resposta_correta": 0,
+      "dificuldade": 1
+    },
+    {
+      "id": 4,
+      "texto": "Qual é o filme com a famosa frase \"Eu sou o rei do mundo\"?",
+      "alternativas": ["Titanic", "O Rei Leão", "Gladiador", "Avatar"],
+      "resposta_correta": 0,
+      "dificuldade": 1
+    },
+    {
+      "id": 5,
+      "texto": "Qual é o nome do festival de música realizado anualmente no deserto de Coachella?",
+      "alternativas": [
+        "Coachella",
+        "Lollapalooza",
+        "Tomorrowland",
+        "Burning Man"
+      ],
+      "resposta_correta": 0,
+      "dificuldade": 1
+    },
+    {
+      "id": 6,
+      "texto": "Quem interpretou Harry Potter nos filmes?",
+      "alternativas": [
+        "Daniel Radcliffe",
+        "Elijah Wood",
+        "Rupert Grint",
+        "Tom Holland"
+      ],
+      "resposta_correta": 0,
+      "dificuldade": 2
+    },
+    {
+      "id": 7,
+      "texto": "Qual é o nome do personagem que quebra a quarta parede em Deadpool?",
+      "alternativas": ["Deadpool", "Wade Wilson", "Logan", "Peter Parker"],
+      "resposta_correta": 0,
+      "dificuldade": 2
+    },
+    {
+      "id": 8,
+      "texto": "Qual banda lançou o álbum \"Abbey Road\"?",
+      "alternativas": [
+        "The Beatles",
+        "The Rolling Stones",
+        "Pink Floyd",
+        "Led Zeppelin"
+      ],
+      "resposta_correta": 0,
+      "dificuldade": 2
+    },
+    {
+      "id": 9,
+      "texto": "Qual o diretor que é famoso por filmes como \"Pulp Fiction\" e \"Kill Bill\"?",
+      "alternativas": [
+        "Quentin Tarantino",
+        "Martin Scorsese",
+        "Christopher Nolan",
+        "Steven Spielberg"
+      ],
+      "resposta_correta": 0,
+      "dificuldade": 3
+    },
+    {
+      "id": 10,
+      "texto": "Qual a série de TV que detém o recorde de maior número de prémios Emmy ganhos por uma única temporada?",
+      "alternativas": [
+        "Game of Thrones",
+        "Breaking Bad",
+        "The Crown",
+        "The Sopranos"
+      ],
+      "resposta_correta": 0,
+      "dificuldade": 3
+    },
+    {
+      "id": 11,
+      "texto": "Qual é o nome da saga com os personagens Frodo e Gandalf?",
+      "alternativas": [
+        "O Senhor dos Anéis",
+        "Harry Potter",
+        "Game of Thrones",
+        "Percy Jackson"
+      ],
+      "resposta_correta": 0,
+      "dificuldade": 1
+    },
+    {
+      "id": 12,
+      "texto": "Qual é o nome do super-herói conhecido como \"Homem-Morcego\"?",
+      "alternativas": [
+        "Batman",
+        "Homem de Ferro",
+        "Capitão América",
+        "Superman"
+      ],
+      "resposta_correta": 0,
+      "dificuldade": 1
+    },
+    {
+      "id": 13,
+      "texto": "Qual é o nome do parque temático baseado nos filmes da Disney?",
+      "alternativas": [
+        "Disneyland",
+        "Universal Studios",
+        "SeaWorld",
+        "Six Flags"
+      ],
+      "resposta_correta": 0,
+      "dificuldade": 1
+    },
+    {
+      "id": 14,
+      "texto": "Qual é o nome do brinquedo que ganha vida no filme \"Toy Story\"?",
+      "alternativas": ["Woody", "Buzz Lightyear", "Rex", "Slinky"],
+      "resposta_correta": 0,
+      "dificuldade": 1
+    },
+    {
+      "id": 15,
+      "texto": "Quem canta a música \"Thriller\"?",
+      "alternativas": ["Michael Jackson", "Elvis Presley", "Prince", "Madonna"],
+      "resposta_correta": 0,
+      "dificuldade": 1
+    },
+    {
+      "id": 16,
+      "texto": "Qual é o nome do show de talentos britânico onde Susan Boyle ficou famosa?",
+      "alternativas": [
+        "Britain's Got Talent",
+        "The X Factor",
+        "The Voice",
+        "American Idol"
+      ],
+      "resposta_correta": 0,
+      "dificuldade": 1
+    },
+    {
+      "id": 17,
+      "texto": "Qual é o nome do universo cinematográfico da Marvel?",
+      "alternativas": ["MCU", "DC Universe", "Star Wars", "Pixar"],
+      "resposta_correta": 0,
+      "dificuldade": 1
+    },
+    {
+      "id": 18,
+      "texto": "Qual é o nome do bruxo que é o melhor amigo de Harry Potter?",
+      "alternativas": [
+        "Ron Weasley",
+        "Hermione Granger",
+        "Neville Longbottom",
+        "Draco Malfoy"
+      ],
+      "resposta_correta": 0,
+      "dificuldade": 1
+    },
+    {
+      "id": 19,
+      "texto": "Qual é o nome da cidade onde a série \"Breaking Bad\" acontece?",
+      "alternativas": ["Albuquerque", "Los Angeles", "Nova York", "Houston"],
+      "resposta_correta": 0,
+      "dificuldade": 1
+    },
+    {
+      "id": 20,
+      "texto": "Quem é o protagonista do filme \"Piratas do Caribe\"?",
+      "alternativas": [
+        "Jack Sparrow",
+        "Will Turner",
+        "Hector Barbossa",
+        "Elizabeth Swann"
+      ],
+      "resposta_correta": 0,
+      "dificuldade": 1
+    },
+    {
+      "id": 21,
+      "texto": "Qual é o nome do vilão no filme \"Pantera Negra\"?",
+      "alternativas": ["Killmonger", "Thanos", "Loki", "Ultron"],
+      "resposta_correta": 0,
+      "dificuldade": 2
+    },
+    {
+      "id": 22,
+      "texto": "Qual é a série com a frase \"Winter is Coming\"?",
+      "alternativas": [
+        "Game of Thrones",
+        "The Witcher",
+        "The Mandalorian",
+        "Breaking Bad"
+      ],
+      "resposta_correta": 0,
+      "dificuldade": 2
+    },
+    {
+      "id": 23,
+      "texto": "Quem dirigiu o filme \"A Origem\"?",
+      "alternativas": [
+        "Christopher Nolan",
+        "Steven Spielberg",
+        "Martin Scorsese",
+        "Quentin Tarantino"
+      ],
+      "resposta_correta": 0,
+      "dificuldade": 2
+    },
+    {
+      "id": 24,
+      "texto": "Qual é a banda conhecida por hits como \"Bohemian Rhapsody\"?",
+      "alternativas": [
+        "Queen",
+        "The Beatles",
+        "Pink Floyd",
+        "The Rolling Stones"
+      ],
+      "resposta_correta": 0,
+      "dificuldade": 2
+    },
+    {
+      "id": 25,
+      "texto": "Qual é o nome do filme em que os personagens entram num videojogo chamado Jumanji?",
+      "alternativas": [
+        "Jumanji: Bem-Vindo à Selva",
+        "Tron",
+        "Ready Player One",
+        "Avatar"
+      ],
+      "resposta_correta": 0,
+      "dificuldade": 2
+    },
+    {
+      "id": 26,
+      "texto": "Qual é o nome da série estrelada por Bryan Cranston como um professor de química?",
+      "alternativas": ["Breaking Bad", "Better Call Saul", "Dexter", "Ozark"],
+      "resposta_correta": 0,
+      "dificuldade": 2
+    },
+    {
+      "id": 27,
+      "texto": "Qual o filme que é conhecido pela frase \"May the Force be with you\"?",
+      "alternativas": [
+        "Star Wars",
+        "Star Trek",
+        "Avatar",
+        "Guardians of the Galaxy"
+      ],
+      "resposta_correta": 0,
+      "dificuldade": 2
+    },
+    {
+      "id": 28,
+      "texto": "Qual é o nome do dragão em \"Como Treinar o Seu Dragão\"?",
+      "alternativas": ["Banguela", "Fúria da Noite", "Smaug", "Sisu"],
+      "resposta_correta": 0,
+      "dificuldade": 2
+    },
+    {
+      "id": 29,
+      "texto": "Que atriz interpreta a Mulher-Maravilha nos filmes recentes da DC?",
+      "alternativas": [
+        "Gal Gadot",
+        "Scarlett Johansson",
+        "Margot Robbie",
+        "Anne Hathaway"
+      ],
+      "resposta_correta": 0,
+      "dificuldade": 2
+    },
+    {
+      "id": 30,
+      "texto": "Qual é o nome do personagem que usa a frase \"Eu sou inevitável\" no MCU?",
+      "alternativas": ["Thanos", "Ultron", "Loki", "Galactus"],
+      "resposta_correta": 0,
+      "dificuldade": 2
+    },
+    {
+      "id": 31,
+      "texto": "Que filme ganhou o Oscar de Melhor Filme em 2020?",
+      "alternativas": ["Parasita", "1917", "Joker", "Era Uma Vez em Hollywood"],
+      "resposta_correta": 0,
+      "dificuldade": 3
+    },
+    {
+      "id": 32,
+      "texto": "Qual é o nome verdadeiro do Joker no filme de 2019?",
+      "alternativas": [
+        "Arthur Fleck",
+        "Jack Napier",
+        "Jerome Valeska",
+        "Joe Kerr"
+      ],
+      "resposta_correta": 0,
+      "dificuldade": 3
+    },
+    {
+      "id": 33,
+      "texto": "Que série é baseada no livro \"A Guerra dos Tronos\" de George R.R. Martin?",
+      "alternativas": [
+        "Game of Thrones",
+        "The Witcher",
+        "Shadow and Bone",
+        "His Dark Materials"
+      ],
+      "resposta_correta": 0,
+      "dificuldade": 3
+    },
+    {
+      "id": 34,
+      "texto": "Qual é o nome da IA no filme \"2001: Uma Odisseia no Espaço\"?",
+      "alternativas": ["HAL 9000", "JARVIS", "TARS", "Samantha"],
+      "resposta_correta": 0,
+      "dificuldade": 3
+    },
+    {
+      "id": 35,
+      "texto": "Qual filme de animação foi o primeiro a ser indicado ao Oscar de Melhor Filme?",
+      "alternativas": ["A Bela e a Fera", "Toy Story", "O Rei Leão", "Shrek"],
+      "resposta_correta": 0,
+      "dificuldade": 3
+    },
+    {
+      "id": 36,
+      "texto": "Qual é o nome do personagem interpretado por Leonardo DiCaprio em \"Titanic\"?",
+      "alternativas": [
+        "Jack Dawson",
+        "Jay Gatsby",
+        "Jordan Belfort",
+        "Frank Abagnale"
+      ],
+      "resposta_correta": 0,
+      "dificuldade": 3
+    },
+    {
+      "id": 37,
+      "texto": "Qual é o nome do diretor da trilogia \"O Senhor dos Anéis\"?",
+      "alternativas": [
+        "Peter Jackson",
+        "Steven Spielberg",
+        "Christopher Nolan",
+        "James Cameron"
+      ],
+      "resposta_correta": 0,
+      "dificuldade": 3
+    },
+    {
+      "id": 38,
+      "texto": "Qual é o nome do lugar onde acontece o torneio em \"Jogos Vorazes\"?",
+      "alternativas": ["Arena", "Distrito 12", "Capitólio", "Distrito 13"],
+      "resposta_correta": 0,
+      "dificuldade": 3
+    },
+    {
+      "id": 39,
+      "texto": "Qual é o nome da série com o personagem Eleven?",
+      "alternativas": [
+        "Stranger Things",
+        "The Umbrella Academy",
+        "Dark",
+        "The Boys"
+      ],
+      "resposta_correta": 0,
+      "dificuldade": 3
+    },
+    {
+      "id": 40,
+      "texto": "Qual é o nome do personagem que faz parte dos \"X-Men\" e tem garras de adamantium?",
+      "alternativas": ["Wolverine", "Magneto", "Cyclops", "Beast"],
+      "resposta_correta": 0,
+      "dificuldade": 3
+    },
+    {
+      "id": 41,
+      "texto": "Que filme tem a famosa frase \"Houston, we have a problem\"?",
+      "alternativas": [
+        "Apollo 13",
+        "Gravidade",
+        "Interestelar",
+        "2001: Uma Odisseia no Espaço"
+      ],
+      "resposta_correta": 0,
+      "dificuldade": 3
+    },
+    {
+      "id": 42,
+      "texto": "Qual é o nome do ator que interpretou o Joker em \"O Cavaleiro das Trevas\"?",
+      "alternativas": [
+        "Heath Ledger",
+        "Joaquin Phoenix",
+        "Jared Leto",
+        "Jack Nicholson"
+      ],
+      "resposta_correta": 0,
+      "dificuldade": 3
+    },
+    {
+      "id": 43,
+      "texto": "Qual é o nome do dragão na série \"Game of Thrones\" que pertence a Daenerys?",
+      "alternativas": ["Drogon", "Viserion", "Rhaegal", "Balerion"],
+      "resposta_correta": 0,
+      "dificuldade": 3
+    },
+    {
+      "id": 44,
+      "texto": "Qual é o nome da música-tema de \"O Rei Leão\" cantada por Elton John?",
+      "alternativas": [
+        "Circle of Life",
+        "Hakuna Matata",
+        "Can You Feel the Love Tonight",
+        "Be Prepared"
+      ],
+      "resposta_correta": 0,
+      "dificuldade": 3
+    },
+    {
+      "id": 45,
+      "texto": "Quem dirigiu \"O Padrinho\"?",
+      "alternativas": [
+        "Francis Ford Coppola",
+        "Martin Scorsese",
+        "Quentin Tarantino",
+        "Alfred Hitchcock"
+      ],
+      "resposta_correta": 0,
+      "dificuldade": 3
+    },
+    {
+      "id": 46,
+      "texto": "Qual é o nome do parque no filme \"Jurassic Park\"?",
+      "alternativas": [
+        "Isla Nublar",
+        "Isla Sorna",
+        "Parque dos Dinossauros",
+        "Mundo Jurássico"
+      ],
+      "resposta_correta": 0,
+      "dificuldade": 3
+    },
+    {
+      "id": 47,
+      "texto": "Que série é sobre os heróis chamados \"Sete\" e o grupo que os enfrenta?",
+      "alternativas": [
+        "The Boys",
+        "The Umbrella Academy",
+        "Titans",
+        "Invincible"
+      ],
+      "resposta_correta": 0,
+      "dificuldade": 3
+    },
+    {
+      "id": 48,
+      "texto": "Qual é o nome do cachorro no filme \"Marley & Eu\"?",
+      "alternativas": ["Marley", "Buddy", "Max", "Charlie"],
+      "resposta_correta": 0,
+      "dificuldade": 3
+    },
+    {
+      "id": 49,
+      "texto": "Qual é o nome do vilão principal em \"Harry Potter\"?",
+      "alternativas": [
+        "Voldemort",
+        "Severo Snape",
+        "Draco Malfoy",
+        "Bellatrix Lestrange"
+      ],
+      "resposta_correta": 0,
+      "dificuldade": 3
+    },
+    {
+      "id": 50,
+      "texto": "Qual é o nome do planeta natal de Superman?",
+      "alternativas": ["Krypton", "Terra", "Asgard", "Vulcano"],
+      "resposta_correta": 0,
+      "dificuldade": 3
+    }
+  ]
+}

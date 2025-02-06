@@ -1,0 +1,465 @@
+{
+  "categoria": "Cultura Geral",
+  "perguntas": [
+    {
+      "id": 1,
+      "texto": "Qual é o idioma mais falado no mundo?",
+      "alternativas": ["Mandarim", "Inglês", "Espanhol", "Hindi"],
+      "resposta_correta": 0,
+      "dificuldade": 1
+    },
+    {
+      "id": 2,
+      "texto": "Qual é o maior país em extensão territorial?",
+      "alternativas": ["Rússia", "China", "Canadá", "Estados Unidos"],
+      "resposta_correta": 0,
+      "dificuldade": 1
+    },
+    {
+      "id": 3,
+      "texto": "Qual é o símbolo químico da água?",
+      "alternativas": ["H2O", "O2", "CO2", "H2"],
+      "resposta_correta": 0,
+      "dificuldade": 1
+    },
+    {
+      "id": 4,
+      "texto": "Qual é a moeda usada no Japão?",
+      "alternativas": ["Iene", "Yuan", "Dólar", "Won"],
+      "resposta_correta": 0,
+      "dificuldade": 1
+    },
+    {
+      "id": 5,
+      "texto": "Qual o planeta que é conhecido como o \"Planeta Vermelho\"?",
+      "alternativas": ["Marte", "Júpiter", "Vênus", "Mercúrio"],
+      "resposta_correta": 0,
+      "dificuldade": 1
+    },
+    {
+      "id": 6,
+      "texto": "Qual o animal que é conhecido como o \"Rei da Selva\"?",
+      "alternativas": ["Leão", "Tigre", "Elefante", "Onça-pintada"],
+      "resposta_correta": 0,
+      "dificuldade": 2
+    },
+    {
+      "id": 7,
+      "texto": "Qual é o livro mais vendido de todos os tempos?",
+      "alternativas": [
+        "A Bíblia",
+        "Dom Quixote",
+        "O Senhor dos Anéis",
+        "Harry Potter"
+      ],
+      "resposta_correta": 0,
+      "dificuldade": 2
+    },
+    {
+      "id": 8,
+      "texto": "Qual é o maior deserto do mundo?",
+      "alternativas": [
+        "Deserto do Saara",
+        "Deserto da Antártica",
+        "Deserto de Gobi",
+        "Deserto de Kalahari"
+      ],
+      "resposta_correta": 0,
+      "dificuldade": 2
+    },
+    {
+      "id": 9,
+      "texto": "Qual a cidade que é conhecida como \"A Grande Maçã\"?",
+      "alternativas": ["Nova York", "Londres", "Paris", "Los Angeles"],
+      "resposta_correta": 0,
+      "dificuldade": 3
+    },
+    {
+      "id": 10,
+      "texto": "Quem escreveu \"A Origem das Espécies\"?",
+      "alternativas": [
+        "Charles Darwin",
+        "Gregor Mendel",
+        "Louis Pasteur",
+        "Albert Einstein"
+      ],
+      "resposta_correta": 0,
+      "dificuldade": 3
+    },
+    {
+      "id": 11,
+      "texto": "Qual é o menor continente do mundo?",
+      "alternativas": ["Oceania", "Europa", "América do Sul", "África"],
+      "resposta_correta": 0,
+      "dificuldade": 1
+    },
+    {
+      "id": 12,
+      "texto": "Qual é o nome da torre famosa localizada em Paris?",
+      "alternativas": [
+        "Torre Eiffel",
+        "Torre de Pisa",
+        "Big Ben",
+        "Empire State"
+      ],
+      "resposta_correta": 0,
+      "dificuldade": 1
+    },
+    {
+      "id": 13,
+      "texto": "Qual é a capital da Itália?",
+      "alternativas": ["Roma", "Veneza", "Milão", "Florença"],
+      "resposta_correta": 0,
+      "dificuldade": 1
+    },
+    {
+      "id": 14,
+      "texto": "Qual é o nome do continente onde está localizado o Brasil?",
+      "alternativas": ["América do Sul", "América do Norte", "Europa", "Ásia"],
+      "resposta_correta": 0,
+      "dificuldade": 1
+    },
+    {
+      "id": 15,
+      "texto": "Qual é a cor da bandeira da paz?",
+      "alternativas": ["Branca", "Azul", "Verde", "Amarela"],
+      "resposta_correta": 0,
+      "dificuldade": 1
+    },
+    {
+      "id": 16,
+      "texto": "Qual é o nome do oceano que banha o litoral leste do Brasil?",
+      "alternativas": ["Atlântico", "Pacífico", "Índico", "Ártico"],
+      "resposta_correta": 0,
+      "dificuldade": 1
+    },
+    {
+      "id": 17,
+      "texto": "Qual é o principal ingrediente do sushi?",
+      "alternativas": ["Arroz", "Peixe", "Algas", "Soja"],
+      "resposta_correta": 0,
+      "dificuldade": 1
+    },
+    {
+      "id": 18,
+      "texto": "Qual é a moeda oficial do Reino Unido?",
+      "alternativas": ["Libra esterlina", "Euro", "Dólar", "Iene"],
+      "resposta_correta": 0,
+      "dificuldade": 1
+    },
+    {
+      "id": 19,
+      "texto": "Qual é a maior ilha do mundo?",
+      "alternativas": ["Groenlândia", "Madagascar", "Havaí", "Nova Guiné"],
+      "resposta_correta": 0,
+      "dificuldade": 1
+    },
+    {
+      "id": 20,
+      "texto": "Qual o país que é conhecido como \"Terra do Sol Nascente\"?",
+      "alternativas": ["Japão", "Coreia do Sul", "China", "Tailândia"],
+      "resposta_correta": 0,
+      "dificuldade": 1
+    },
+    {
+      "id": 21,
+      "texto": "Qual é o maior oceano do mundo?",
+      "alternativas": [
+        "Oceano Pacífico",
+        "Oceano Atlântico",
+        "Oceano Índico",
+        "Oceano Ártico"
+      ],
+      "resposta_correta": 0,
+      "dificuldade": 2
+    },
+    {
+      "id": 22,
+      "texto": "Quem pintou a obra \"A Noite Estrelada\"?",
+      "alternativas": [
+        "Van Gogh",
+        "Pablo Picasso",
+        "Leonardo da Vinci",
+        "Salvador Dalí"
+      ],
+      "resposta_correta": 0,
+      "dificuldade": 2
+    },
+    {
+      "id": 23,
+      "texto": "Qual é o país que inventou a pizza?",
+      "alternativas": ["Itália", "Estados Unidos", "França", "Grécia"],
+      "resposta_correta": 0,
+      "dificuldade": 2
+    },
+    {
+      "id": 24,
+      "texto": "Qual é o esporte mais popular do mundo?",
+      "alternativas": ["Futebol", "Basquete", "Tênis", "Críquete"],
+      "resposta_correta": 0,
+      "dificuldade": 2
+    },
+    {
+      "id": 25,
+      "texto": "Quem escreveu \"Dom Quixote\"?",
+      "alternativas": [
+        "Miguel de Cervantes",
+        "William Shakespeare",
+        "Victor Hugo",
+        "Dante Alighieri"
+      ],
+      "resposta_correta": 0,
+      "dificuldade": 2
+    },
+    {
+      "id": 26,
+      "texto": "Qual é a montanha mais alta do mundo?",
+      "alternativas": [
+        "Monte Everest",
+        "Monte K2",
+        "Monte Kilimanjaro",
+        "Monte Fuji"
+      ],
+      "resposta_correta": 0,
+      "dificuldade": 2
+    },
+    {
+      "id": 27,
+      "texto": "Qual a cidade que é famosa por seu carnaval no Brasil?",
+      "alternativas": ["Rio de Janeiro", "Salvador", "São Paulo", "Recife"],
+      "resposta_correta": 0,
+      "dificuldade": 2
+    },
+    {
+      "id": 28,
+      "texto": "Qual é o nome do evento que ocorre a cada quatro anos e reúne atletas de todo o mundo?",
+      "alternativas": [
+        "Jogos Olímpicos",
+        "Copa do Mundo",
+        "Jogos Pan-Americanos",
+        "Jogos da Commonwealth"
+      ],
+      "resposta_correta": 0,
+      "dificuldade": 2
+    },
+    {
+      "id": 29,
+      "texto": "Qual é o nome da famosa pirâmide no Egito?",
+      "alternativas": [
+        "Pirâmide de Gizé",
+        "Pirâmide de Kukulcán",
+        "Pirâmide de Tikal",
+        "Pirâmide de Saqqara"
+      ],
+      "resposta_correta": 0,
+      "dificuldade": 2
+    },
+    {
+      "id": 30,
+      "texto": "Quem foi o primeiro presidente dos Estados Unidos?",
+      "alternativas": [
+        "George Washington",
+        "Abraham Lincoln",
+        "Thomas Jefferson",
+        "John Adams"
+      ],
+      "resposta_correta": 0,
+      "dificuldade": 2
+    },
+    {
+      "id": 31,
+      "texto": "Qual é o nome da maior floresta tropical do mundo?",
+      "alternativas": [
+        "Floresta Amazônica",
+        "Floresta Negra",
+        "Floresta do Congo",
+        "Floresta de Bornéu"
+      ],
+      "resposta_correta": 0,
+      "dificuldade": 3
+    },
+    {
+      "id": 32,
+      "texto": "Qual é a capital da Austrália?",
+      "alternativas": ["Camberra", "Sydney", "Melbourne", "Brisbane"],
+      "resposta_correta": 0,
+      "dificuldade": 3
+    },
+    {
+      "id": 33,
+      "texto": "Quem foi o criador da teoria da gravidade?",
+      "alternativas": [
+        "Isaac Newton",
+        "Albert Einstein",
+        "Galileu Galilei",
+        "Nicolau Copérnico"
+      ],
+      "resposta_correta": 0,
+      "dificuldade": 3
+    },
+    {
+      "id": 34,
+      "texto": "Qual é o nome do famoso líder que unificou os mongóis?",
+      "alternativas": ["Genghis Khan", "Kublai Khan", "Attila", "Tamerlão"],
+      "resposta_correta": 0,
+      "dificuldade": 3
+    },
+    {
+      "id": 35,
+      "texto": "Qual é o nome da barreira de corais localizada na Austrália?",
+      "alternativas": [
+        "Grande Barreira de Coral",
+        "Barreira do Atlântico",
+        "Recife de Belize",
+        "Recife de Sian Ka'an"
+      ],
+      "resposta_correta": 0,
+      "dificuldade": 3
+    },
+    {
+      "id": 36,
+      "texto": "Qual é a única cidade no mundo situada em dois continentes?",
+      "alternativas": ["Istambul", "Moscou", "Cairo", "Tóquio"],
+      "resposta_correta": 0,
+      "dificuldade": 3
+    },
+    {
+      "id": 37,
+      "texto": "Qual é o país que tem como língua oficial o Khmer?",
+      "alternativas": ["Camboja", "Laos", "Vietnã", "Tailândia"],
+      "resposta_correta": 0,
+      "dificuldade": 3
+    },
+    {
+      "id": 38,
+      "texto": "Qual é o nome do tratado que dividiu o mundo entre Portugal e Espanha em 1494?",
+      "alternativas": [
+        "Tratado de Tordesilhas",
+        "Tratado de Versalhes",
+        "Tratado de Utrecht",
+        "Tratado de Paris"
+      ],
+      "resposta_correta": 0,
+      "dificuldade": 3
+    },
+    {
+      "id": 39,
+      "texto": "Quem foi o famoso líder revolucionário da América do Sul conhecido como \"El Libertador\"?",
+      "alternativas": [
+        "Simón Bolívar",
+        "Che Guevara",
+        "José de San Martín",
+        "Francisco Miranda"
+      ],
+      "resposta_correta": 0,
+      "dificuldade": 3
+    },
+    {
+      "id": 40,
+      "texto": "Qual é o nome do templo religioso localizado no Vaticano?",
+      "alternativas": [
+        "Basílica de São Pedro",
+        "Catedral de Notre-Dame",
+        "Basílica de São João",
+        "Igreja de Santo Antônio"
+      ],
+      "resposta_correta": 0,
+      "dificuldade": 3
+    },
+    {
+      "id": 41,
+      "texto": "Qual é o nome da cidade onde ocorreu o primeiro ataque com bomba atômica?",
+      "alternativas": ["Hiroshima", "Nagasaki", "Berlim", "Pearl Harbor"],
+      "resposta_correta": 0,
+      "dificuldade": 3
+    },
+    {
+      "id": 42,
+      "texto": "Quem escreveu a peça \"Hamlet\"?",
+      "alternativas": [
+        "William Shakespeare",
+        "Anton Chekhov",
+        "Victor Hugo",
+        "Molière"
+      ],
+      "resposta_correta": 0,
+      "dificuldade": 3
+    },
+    {
+      "id": 43,
+      "texto": "Qual o país que é famoso por suas tulipas e moinhos de vento?",
+      "alternativas": ["Holanda", "Dinamarca", "Bélgica", "Suécia"],
+      "resposta_correta": 0,
+      "dificuldade": 3
+    },
+    {
+      "id": 44,
+      "texto": "Qual é o nome do mar que separa a Europa da África?",
+      "alternativas": [
+        "Mar Mediterrâneo",
+        "Mar Vermelho",
+        "Mar Negro",
+        "Mar Adriático"
+      ],
+      "resposta_correta": 0,
+      "dificuldade": 3
+    },
+    {
+      "id": 45,
+      "texto": "Qual é o nome da moeda usada na Suíça?",
+      "alternativas": ["Franco suíço", "Euro", "Dólar", "Libra esterlina"],
+      "resposta_correta": 0,
+      "dificuldade": 3
+    },
+    {
+      "id": 46,
+      "texto": "Qual é a menor nação do mundo em área?",
+      "alternativas": ["Vaticano", "Mônaco", "Nauru", "San Marino"],
+      "resposta_correta": 0,
+      "dificuldade": 3
+    },
+    {
+      "id": 47,
+      "texto": "Qual é a única construção antiga das 7 maravilhas do mundo que ainda existe?",
+      "alternativas": [
+        "Pirâmides de Gizé",
+        "Jardins Suspensos da Babilônia",
+        "Colosso de Rodes",
+        "Farol de Alexandria"
+      ],
+      "resposta_correta": 0,
+      "dificuldade": 3
+    },
+    {
+      "id": 48,
+      "texto": "Qual é o nome do fenômeno em que o Sol e a Lua parecem ter o mesmo tamanho no céu?",
+      "alternativas": [
+        "Eclipse solar",
+        "Equinócio",
+        "Solstício",
+        "Eclipse lunar"
+      ],
+      "resposta_correta": 0,
+      "dificuldade": 3
+    },
+    {
+      "id": 49,
+      "texto": "Qual é o nome da ilha famosa pelas suas esculturas de pedra chamadas Moais?",
+      "alternativas": [
+        "Ilha de Páscoa",
+        "Madagascar",
+        "Ilhas Galápagos",
+        "Ilha de Malta"
+      ],
+      "resposta_correta": 0,
+      "dificuldade": 3
+    },
+    {
+      "id": 50,
+      "texto": "Qual é o nome do filósofo grego que ensinou Alexandre, o Grande?",
+      "alternativas": ["Aristóteles", "Sócrates", "Platão", "Pitágoras"],
+      "resposta_correta": 0,
+      "dificuldade": 3
+    }
+  ]
+}

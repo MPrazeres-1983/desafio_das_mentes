@@ -1,0 +1,525 @@
+{
+  "categoria": "História",
+  "perguntas": [
+    {
+      "id": 1,
+      "texto": "Quem foi o primeiro presidente dos Estados Unidos?",
+      "alternativas": [
+        "George Washington",
+        "Abraham Lincoln",
+        "Thomas Jefferson",
+        "John Adams"
+      ],
+      "resposta_correta": 0,
+      "dificuldade": 1
+    },
+    {
+      "id": 2,
+      "texto": "Quem descobriu a América?",
+      "alternativas": [
+        "Cristóvão Colombo",
+        "Vasco da Gama",
+        "Américo Vespúcio",
+        "Pedro Álvares Cabral"
+      ],
+      "resposta_correta": 0,
+      "dificuldade": 1
+    },
+    {
+      "id": 3,
+      "texto": "Em que ano aconteceu a Revolução Francesa?",
+      "alternativas": ["1789", "1776", "1799", "1804"],
+      "resposta_correta": 0,
+      "dificuldade": 1
+    },
+    {
+      "id": 4,
+      "texto": "Qual foi o principal objetivo das Cruzadas?",
+      "alternativas": [
+        "Recuperar Jerusalém",
+        "Explorar novas terras",
+        "Propagar o cristianismo",
+        "Dominar Constantinopla"
+      ],
+      "resposta_correta": 0,
+      "dificuldade": 1
+    },
+    {
+      "id": 5,
+      "texto": "Quem foi o líder da Alemanha durante a Segunda Guerra Mundial?",
+      "alternativas": [
+        "Adolf Hitler",
+        "Benito Mussolini",
+        "Winston Churchill",
+        "Franklin D. Roosevelt"
+      ],
+      "resposta_correta": 0,
+      "dificuldade": 1
+    },
+    {
+      "id": 6,
+      "texto": "Qual foi o tratado que encerrou a Primeira Guerra Mundial?",
+      "alternativas": [
+        "Tratado de Versalhes",
+        "Tratado de Tordesilhas",
+        "Tratado de Paris",
+        "Tratado de Genebra"
+      ],
+      "resposta_correta": 0,
+      "dificuldade": 2
+    },
+    {
+      "id": 7,
+      "texto": "Qual imperador romano foi assassinado em 44 a.C.?",
+      "alternativas": ["Júlio César", "Nero", "Augusto", "Calígula"],
+      "resposta_correta": 0,
+      "dificuldade": 2
+    },
+    {
+      "id": 8,
+      "texto": "Qual foi o nome da primeira mulher a ganhar um Prêmio Nobel?",
+      "alternativas": [
+        "Marie Curie",
+        "Rosalind Franklin",
+        "Ada Lovelace",
+        "Emmy Noether"
+      ],
+      "resposta_correta": 0,
+      "dificuldade": 2
+    },
+    {
+      "id": 9,
+      "texto": "Que civilização construiu Machu Picchu?",
+      "alternativas": ["Incas", "Maias", "Astecas", "Olmecas"],
+      "resposta_correta": 0,
+      "dificuldade": 3
+    },
+    {
+      "id": 10,
+      "texto": "Quem foi conhecido como 'O Libertador' da América do Sul?",
+      "alternativas": [
+        "Simón Bolívar",
+        "Che Guevara",
+        "José de San Martín",
+        "Dom Pedro II"
+      ],
+      "resposta_correta": 0,
+      "dificuldade": 3
+    },
+    {
+      "id": 11,
+      "texto": "Qual foi o país que colonizou o Brasil?",
+      "alternativas": ["Portugal", "Espanha", "França", "Holanda"],
+      "resposta_correta": 0,
+      "dificuldade": 1
+    },
+    {
+      "id": 12,
+      "texto": "Quem foi o primeiro imperador de Roma?",
+      "alternativas": ["Augusto", "Júlio César", "Nero", "Calígula"],
+      "resposta_correta": 0,
+      "dificuldade": 1
+    },
+    {
+      "id": 13,
+      "texto": "Qual foi a guerra entre o Norte e o Sul dos Estados Unidos?",
+      "alternativas": [
+        "Guerra Civil Americana",
+        "Primeira Guerra Mundial",
+        "Guerra de Secessão",
+        "Guerra Fria"
+      ],
+      "resposta_correta": 0,
+      "dificuldade": 1
+    },
+    {
+      "id": 14,
+      "texto": "Quem era o presidente dos EUA durante a Grande Depressão?",
+      "alternativas": [
+        "Franklin D. Roosevelt",
+        "Herbert Hoover",
+        "Woodrow Wilson",
+        "Harry Truman"
+      ],
+      "resposta_correta": 0,
+      "dificuldade": 1
+    },
+    {
+      "id": 15,
+      "texto": "Qual foi o nome do primeiro homem a pisar na Lua?",
+      "alternativas": [
+        "Neil Armstrong",
+        "Buzz Aldrin",
+        "Yuri Gagarin",
+        "Michael Collins"
+      ],
+      "resposta_correta": 0,
+      "dificuldade": 1
+    },
+    {
+      "id": 16,
+      "texto": "Que civilização antiga construiu as pirâmides do Egito?",
+      "alternativas": ["Egípcios", "Maias", "Incas", "Sumérios"],
+      "resposta_correta": 0,
+      "dificuldade": 1
+    },
+    {
+      "id": 17,
+      "texto": "Qual o evento que marcou o início da Idade Média?",
+      "alternativas": [
+        "Queda do Império Romano",
+        "Descoberta da América",
+        "Guerra dos Cem Anos",
+        "Revolução Francesa"
+      ],
+      "resposta_correta": 0,
+      "dificuldade": 1
+    },
+    {
+      "id": 18,
+      "texto": "Quem foi o líder do movimento dos direitos civis nos EUA na década de 1960?",
+      "alternativas": [
+        "Martin Luther King Jr.",
+        "Malcolm X",
+        "Rosa Parks",
+        "Barack Obama"
+      ],
+      "resposta_correta": 0,
+      "dificuldade": 1
+    },
+    {
+      "id": 19,
+      "texto": "Qual foi o nome do barco usado por Colombo para chegar à América?",
+      "alternativas": ["Santa Maria", "Pinta", "Nina", "Mayflower"],
+      "resposta_correta": 0,
+      "dificuldade": 1
+    },
+    {
+      "id": 20,
+      "texto": "Que civilização antiga é conhecida pela invenção da democracia?",
+      "alternativas": ["Gregos", "Romanos", "Egípcios", "Babilônios"],
+      "resposta_correta": 0,
+      "dificuldade": 1
+    },
+    {
+      "id": 21,
+      "texto": "Qual foi o conflito armado entre Inglaterra e França que durou 116 anos?",
+      "alternativas": [
+        "Guerra dos Cem Anos",
+        "Guerra das Rosas",
+        "Guerra de Sucessão Espanhola",
+        "Guerra Napoleônica"
+      ],
+      "resposta_correta": 0,
+      "dificuldade": 2
+    },
+    {
+      "id": 22,
+      "texto": "Qual foi o nome do tratado que dividiu o mundo entre Portugal e Espanha?",
+      "alternativas": [
+        "Tratado de Tordesilhas",
+        "Tratado de Paris",
+        "Tratado de Utrecht",
+        "Tratado de Genebra"
+      ],
+      "resposta_correta": 0,
+      "dificuldade": 2
+    },
+    {
+      "id": 23,
+      "texto": "Que revolução marcou a transição para a produção industrial?",
+      "alternativas": [
+        "Revolução Industrial",
+        "Revolução Francesa",
+        "Revolução Americana",
+        "Revolução Russa"
+      ],
+      "resposta_correta": 0,
+      "dificuldade": 2
+    },
+    {
+      "id": 24,
+      "texto": "Qual líder mongol conquistou grande parte da Ásia?",
+      "alternativas": ["Genghis Khan", "Kublai Khan", "Tamerlão", "Attila"],
+      "resposta_correta": 0,
+      "dificuldade": 2
+    },
+    {
+      "id": 25,
+      "texto": "Quem foi o primeiro ministro britânico durante a Segunda Guerra Mundial?",
+      "alternativas": [
+        "Winston Churchill",
+        "Neville Chamberlain",
+        "Clement Attlee",
+        "Margaret Thatcher"
+      ],
+      "resposta_correta": 0,
+      "dificuldade": 2
+    },
+    {
+      "id": 26,
+      "texto": "Qual foi o evento que levou os EUA a entrarem na Segunda Guerra Mundial?",
+      "alternativas": [
+        "Ataque a Pearl Harbor",
+        "Invasão da Polônia",
+        "Bombardeio de Londres",
+        "Batalha de Stalingrado"
+      ],
+      "resposta_correta": 0,
+      "dificuldade": 2
+    },
+    {
+      "id": 27,
+      "texto": "Qual foi o nome do rei francês executado durante a Revolução Francesa?",
+      "alternativas": ["Luís XVI", "Luís XV", "Luís XIV", "Carlos X"],
+      "resposta_correta": 0,
+      "dificuldade": 2
+    },
+    {
+      "id": 28,
+      "texto": "Quem foi o líder revolucionário que derrubou a ditadura em Cuba?",
+      "alternativas": [
+        "Fidel Castro",
+        "Che Guevara",
+        "Hugo Chávez",
+        "Simón Bolívar"
+      ],
+      "resposta_correta": 0,
+      "dificuldade": 2
+    },
+    {
+      "id": 29,
+      "texto": "Qual foi o nome do processo de unificação da Alemanha em 1871?",
+      "alternativas": [
+        "Guerra Franco-Prussiana",
+        "Revolução Alemã",
+        "Confederação Germânica",
+        "Tratado de Frankfurt"
+      ],
+      "resposta_correta": 0,
+      "dificuldade": 2
+    },
+    {
+      "id": 30,
+      "texto": "Que império era conhecido como \"o império onde o sol nunca se põe\"?",
+      "alternativas": [
+        "Império Britânico",
+        "Império Espanhol",
+        "Império Otomano",
+        "Império Romano"
+      ],
+      "resposta_correta": 0,
+      "dificuldade": 2
+    },
+    {
+      "id": 31,
+      "texto": "Qual foi o nome do documento que estabeleceu os direitos dos cidadãos ingleses em 1215?",
+      "alternativas": [
+        "Magna Carta",
+        "Declaração de Direitos",
+        "Constituição Inglesa",
+        "Ato de Navegação"
+      ],
+      "resposta_correta": 0,
+      "dificuldade": 3
+    },
+    {
+      "id": 32,
+      "texto": "Qual foi a guerra que envolveu todas as grandes potências europeias entre 1618 e 1648?",
+      "alternativas": [
+        "Guerra dos Trinta Anos",
+        "Guerra dos Cem Anos",
+        "Guerra Napoleônica",
+        "Guerra de Sucessão Espanhola"
+      ],
+      "resposta_correta": 0,
+      "dificuldade": 3
+    },
+    {
+      "id": 33,
+      "texto": "Qual era o nome da rota comercial que ligava a China ao Ocidente?",
+      "alternativas": [
+        "Rota da Seda",
+        "Rota das Especiarias",
+        "Rota do Ouro",
+        "Rota do Chá"
+      ],
+      "resposta_correta": 0,
+      "dificuldade": 3
+    },
+    {
+      "id": 34,
+      "texto": "Qual foi a dinastia que governou a China por mais de 300 anos até 1912?",
+      "alternativas": [
+        "Dinastia Qing",
+        "Dinastia Ming",
+        "Dinastia Tang",
+        "Dinastia Han"
+      ],
+      "resposta_correta": 0,
+      "dificuldade": 3
+    },
+    {
+      "id": 35,
+      "texto": "Qual foi o nome da operação militar aliada para invadir a Normandia em 1944?",
+      "alternativas": [
+        "Operação Overlord",
+        "Operação Barbarossa",
+        "Operação Market Garden",
+        "Operação Torch"
+      ],
+      "resposta_correta": 0,
+      "dificuldade": 3
+    },
+    {
+      "id": 36,
+      "texto": "Qual foi a capital do Império Bizantino?",
+      "alternativas": ["Constantinopla", "Atenas", "Roma", "Alexandria"],
+      "resposta_correta": 0,
+      "dificuldade": 3
+    },
+    {
+      "id": 37,
+      "texto": "Qual foi o nome do tratado que encerrou a Guerra Fria?",
+      "alternativas": [
+        "Tratado INF",
+        "Acordo de Yalta",
+        "Pacto de Varsóvia",
+        "Acordo SALT"
+      ],
+      "resposta_correta": 0,
+      "dificuldade": 3
+    },
+    {
+      "id": 38,
+      "texto": "Quem foi o imperador francês que tentou conquistar a Europa?",
+      "alternativas": [
+        "Napoleão Bonaparte",
+        "Carlos Magno",
+        "Luís XIV",
+        "Francisco José"
+      ],
+      "resposta_correta": 0,
+      "dificuldade": 3
+    },
+    {
+      "id": 39,
+      "texto": "Qual foi o primeiro país a abolir a escravidão na América Latina?",
+      "alternativas": ["Haiti", "Brasil", "Argentina", "México"],
+      "resposta_correta": 0,
+      "dificuldade": 3
+    },
+    {
+      "id": 40,
+      "texto": "Qual foi o nome da primeira grande civilização da Mesopotâmia?",
+      "alternativas": ["Sumérios", "Babilônios", "Assírios", "Acádios"],
+      "resposta_correta": 0,
+      "dificuldade": 3
+    },
+    {
+      "id": 41,
+      "texto": "Qual foi o nome da aliança militar formada por países do Leste Europeu durante a Guerra Fria?",
+      "alternativas": ["Pacto de Varsóvia", "OTAN", "Liga das Nações", "ONU"],
+      "resposta_correta": 0,
+      "dificuldade": 3
+    },
+    {
+      "id": 42,
+      "texto": "Qual era o nome do plano dos EUA para reconstruir a Europa após a Segunda Guerra Mundial?",
+      "alternativas": [
+        "Plano Marshall",
+        "Plano Truman",
+        "Plano Monroe",
+        "Plano Roosevelt"
+      ],
+      "resposta_correta": 0,
+      "dificuldade": 3
+    },
+    {
+      "id": 43,
+      "texto": "Qual foi o nome da revolução que levou à criação da União Soviética?",
+      "alternativas": [
+        "Revolução Russa",
+        "Revolução Bolchevique",
+        "Revolução Industrial",
+        "Revolução Francesa"
+      ],
+      "resposta_correta": 0,
+      "dificuldade": 3
+    },
+    {
+      "id": 44,
+      "texto": "Qual foi o nome do acordo que dividiu a Alemanha após a Segunda Guerra Mundial?",
+      "alternativas": [
+        "Acordo de Potsdam",
+        "Tratado de Versalhes",
+        "Acordo de Yalta",
+        "Acordo de Munique"
+      ],
+      "resposta_correta": 0,
+      "dificuldade": 3
+    },
+    {
+      "id": 45,
+      "texto": "Qual foi o nome do conflito armado entre Esparta e Atenas na Grécia Antiga?",
+      "alternativas": [
+        "Guerra do Peloponeso",
+        "Guerra de Troia",
+        "Guerra Médica",
+        "Guerra de Corinto"
+      ],
+      "resposta_correta": 0,
+      "dificuldade": 3
+    },
+    {
+      "id": 46,
+      "texto": "Qual foi o nome do primeiro governante do Sacro Império Romano-Germânico?",
+      "alternativas": ["Carlos Magno", "Henrique IV", "Otão I", "Conrado II"],
+      "resposta_correta": 0,
+      "dificuldade": 3
+    },
+    {
+      "id": 47,
+      "texto": "Qual foi o nome da guerra que resultou na independência dos Estados Unidos?",
+      "alternativas": [
+        "Guerra de Independência Americana",
+        "Guerra Civil Americana",
+        "Guerra Anglo-Americana",
+        "Revolução Americana"
+      ],
+      "resposta_correta": 0,
+      "dificuldade": 3
+    },
+    {
+      "id": 48,
+      "texto": "Qual era o nome da cidade maia onde se encontra a pirâmide de Kukulcán?",
+      "alternativas": ["Chichén Itzá", "Uxmal", "Tikal", "Copán"],
+      "resposta_correta": 0,
+      "dificuldade": 3
+    },
+    {
+      "id": 49,
+      "texto": "Qual foi o nome do movimento que reformou a Igreja Católica no século XVI?",
+      "alternativas": [
+        "Reforma Protestante",
+        "Contrarreforma",
+        "Revolução Gloriosa",
+        "Cisma do Oriente"
+      ],
+      "resposta_correta": 0,
+      "dificuldade": 3
+    },
+    {
+      "id": 50,
+      "texto": "Qual foi o nome do tratado que encerrou a Guerra dos Sete Anos?",
+      "alternativas": [
+        "Tratado de Paris",
+        "Tratado de Utrecht",
+        "Tratado de Versalhes",
+        "Tratado de Nankin"
+      ],
+      "resposta_correta": 0,
+      "dificuldade": 3
+    }
+  ]
+}

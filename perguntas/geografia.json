@@ -1,0 +1,450 @@
+{
+  "categoria": "Geografia",
+  "perguntas": [
+    {
+      "id": 1,
+      "texto": "Qual é o maior oceano do mundo?",
+      "alternativas": [
+        "Oceano Pacífico",
+        "Oceano Atlântico",
+        "Oceano Índico",
+        "Oceano Ártico"
+      ],
+      "resposta_correta": 0,
+      "dificuldade": 1
+    },
+    {
+      "id": 2,
+      "texto": "Qual é o país com a maior população do mundo?",
+      "alternativas": ["China", "Índia", "Estados Unidos", "Indonésia"],
+      "resposta_correta": 0,
+      "dificuldade": 1
+    },
+    {
+      "id": 3,
+      "texto": "Qual é a capital da França?",
+      "alternativas": ["Paris", "Londres", "Roma", "Berlim"],
+      "resposta_correta": 0,
+      "dificuldade": 1
+    },
+    {
+      "id": 4,
+      "texto": "Em que continente está localizado o Egito?",
+      "alternativas": ["África", "Ásia", "Europa", "América"],
+      "resposta_correta": 0,
+      "dificuldade": 1
+    },
+    {
+      "id": 5,
+      "texto": "Qual é o rio mais longo do mundo?",
+      "alternativas": [
+        "Rio Nilo",
+        "Rio Amazonas",
+        "Rio Yangtze",
+        "Rio Mississippi"
+      ],
+      "resposta_correta": 0,
+      "dificuldade": 1
+    },
+    {
+      "id": 6,
+      "texto": "Que país tem o maior território do mundo?",
+      "alternativas": ["Rússia", "Canadá", "Estados Unidos", "China"],
+      "resposta_correta": 0,
+      "dificuldade": 2
+    },
+    {
+      "id": 7,
+      "texto": "Qual é o deserto mais quente do mundo?",
+      "alternativas": [
+        "Deserto do Saara",
+        "Deserto de Gobi",
+        "Deserto da Arábia",
+        "Deserto de Kalahari"
+      ],
+      "resposta_correta": 0,
+      "dificuldade": 2
+    },
+    {
+      "id": 8,
+      "texto": "Qual é a montanha mais alta do mundo?",
+      "alternativas": [
+        "Monte Everest",
+        "K2",
+        "Monte Kilimanjaro",
+        "Monte McKinley"
+      ],
+      "resposta_correta": 0,
+      "dificuldade": 2
+    },
+    {
+      "id": 9,
+      "texto": "Qual é o nome do menor país do mundo?",
+      "alternativas": ["Vaticano", "Mônaco", "San Marino", "Liechtenstein"],
+      "resposta_correta": 0,
+      "dificuldade": 3
+    },
+    {
+      "id": 10,
+      "texto": "Que país é conhecido como a \"terra dos mil lagos\"?",
+      "alternativas": ["Finlândia", "Noruega", "Suécia", "Canadá"],
+      "resposta_correta": 0,
+      "dificuldade": 3
+    },
+    {
+      "id": 11,
+      "texto": "Qual é a capital do Brasil?",
+      "alternativas": ["Brasília", "Rio de Janeiro", "São Paulo", "Salvador"],
+      "resposta_correta": 0,
+      "dificuldade": 1
+    },
+    {
+      "id": 12,
+      "texto": "Qual é o maior continente do mundo?",
+      "alternativas": ["Ásia", "África", "América", "Europa"],
+      "resposta_correta": 0,
+      "dificuldade": 1
+    },
+    {
+      "id": 13,
+      "texto": "Qual é o nome da linha imaginária que divide a Terra em hemisférios Norte e Sul?",
+      "alternativas": [
+        "Linha do Equador",
+        "Meridiano de Greenwich",
+        "Trópico de Câncer",
+        "Trópico de Capricórnio"
+      ],
+      "resposta_correta": 0,
+      "dificuldade": 1
+    },
+    {
+      "id": 14,
+      "texto": "Qual é a capital dos Estados Unidos?",
+      "alternativas": [
+        "Washington, D.C.",
+        "Nova York",
+        "Los Angeles",
+        "Chicago"
+      ],
+      "resposta_correta": 0,
+      "dificuldade": 1
+    },
+    {
+      "id": 15,
+      "texto": "Qual é o nome do famoso monumento em Paris?",
+      "alternativas": [
+        "Torre Eiffel",
+        "Big Ben",
+        "Coliseu",
+        "Estátua da Liberdade"
+      ],
+      "resposta_correta": 0,
+      "dificuldade": 1
+    },
+    {
+      "id": 16,
+      "texto": "Qual é a capital da Itália?",
+      "alternativas": ["Roma", "Milão", "Veneza", "Florença"],
+      "resposta_correta": 0,
+      "dificuldade": 1
+    },
+    {
+      "id": 17,
+      "texto": "Qual é o oceano localizado entre a África e a Austrália?",
+      "alternativas": [
+        "Oceano Índico",
+        "Oceano Atlântico",
+        "Oceano Pacífico",
+        "Oceano Ártico"
+      ],
+      "resposta_correta": 0,
+      "dificuldade": 1
+    },
+    {
+      "id": 18,
+      "texto": "Qual é o nome do continente onde está localizado o deserto do Saara?",
+      "alternativas": ["África", "Ásia", "América do Sul", "Oceania"],
+      "resposta_correta": 0,
+      "dificuldade": 1
+    },
+    {
+      "id": 19,
+      "texto": "Qual é o país conhecido como \"Terra do Sol Nascente\"?",
+      "alternativas": ["Japão", "China", "Coreia do Sul", "Tailândia"],
+      "resposta_correta": 0,
+      "dificuldade": 1
+    },
+    {
+      "id": 20,
+      "texto": "Qual é o nome da cadeia de montanhas que inclui o Monte Everest?",
+      "alternativas": ["Himalaia", "Andes", "Alpes", "Montanhas Rochosas"],
+      "resposta_correta": 0,
+      "dificuldade": 1
+    },
+    {
+      "id": 21,
+      "texto": "Qual é o país mais ao norte do mundo?",
+      "alternativas": [
+        "Groenlândia (Dinamarca)",
+        "Canadá",
+        "Rússia",
+        "Noruega"
+      ],
+      "resposta_correta": 0,
+      "dificuldade": 2
+    },
+    {
+      "id": 22,
+      "texto": "Qual é o nome do estreito que separa a África da Europa?",
+      "alternativas": [
+        "Estreito de Gibraltar",
+        "Estreito de Bering",
+        "Estreito de Malaca",
+        "Estreito de Magalhães"
+      ],
+      "resposta_correta": 0,
+      "dificuldade": 2
+    },
+    {
+      "id": 23,
+      "texto": "Qual é a capital da Austrália?",
+      "alternativas": ["Camberra", "Sydney", "Melbourne", "Brisbane"],
+      "resposta_correta": 0,
+      "dificuldade": 2
+    },
+    {
+      "id": 24,
+      "texto": "Qual é o nome do mar localizado entre a Europa e a África?",
+      "alternativas": [
+        "Mar Mediterrâneo",
+        "Mar Vermelho",
+        "Mar Negro",
+        "Mar Cáspio"
+      ],
+      "resposta_correta": 0,
+      "dificuldade": 2
+    },
+    {
+      "id": 25,
+      "texto": "Qual é o nome da floresta tropical localizada na América do Sul?",
+      "alternativas": [
+        "Floresta Amazônica",
+        "Floresta Negra",
+        "Floresta do Congo",
+        "Floresta de Bornéu"
+      ],
+      "resposta_correta": 0,
+      "dificuldade": 2
+    },
+    {
+      "id": 26,
+      "texto": "Qual é o maior país da América do Sul?",
+      "alternativas": ["Brasil", "Argentina", "Colômbia", "Peru"],
+      "resposta_correta": 0,
+      "dificuldade": 2
+    },
+    {
+      "id": 27,
+      "texto": "Qual é o nome do lago mais profundo do mundo?",
+      "alternativas": [
+        "Lago Baikal",
+        "Lago Vitória",
+        "Lago Superior",
+        "Lago Tanganica"
+      ],
+      "resposta_correta": 0,
+      "dificuldade": 2
+    },
+    {
+      "id": 28,
+      "texto": "Qual é o país que tem a maior extensão de litoral no mundo?",
+      "alternativas": ["Canadá", "Brasil", "Austrália", "Rússia"],
+      "resposta_correta": 0,
+      "dificuldade": 2
+    },
+    {
+      "id": 29,
+      "texto": "Qual é o país localizado na Península Arábica?",
+      "alternativas": ["Arábia Saudita", "Irã", "Turquia", "Egito"],
+      "resposta_correta": 0,
+      "dificuldade": 2
+    },
+    {
+      "id": 30,
+      "texto": "Qual é o nome do rio que atravessa o Egito?",
+      "alternativas": [
+        "Rio Nilo",
+        "Rio Amazonas",
+        "Rio Eufrates",
+        "Rio Ganges"
+      ],
+      "resposta_correta": 0,
+      "dificuldade": 2
+    },
+    {
+      "id": 31,
+      "texto": "Qual é o nome da ilha dividida entre Indonésia, Malásia e Brunei?",
+      "alternativas": ["Bornéu", "Sumatra", "Java", "Sulawesi"],
+      "resposta_correta": 0,
+      "dificuldade": 3
+    },
+    {
+      "id": 32,
+      "texto": "Qual é o nome da cidade mais alta do mundo em altitude?",
+      "alternativas": ["La Paz", "Cuzco", "Katmandu", "Quito"],
+      "resposta_correta": 0,
+      "dificuldade": 3
+    },
+    {
+      "id": 33,
+      "texto": "Qual é o único país que faz fronteira com o Reino Unido?",
+      "alternativas": ["Irlanda", "França", "Bélgica", "Holanda"],
+      "resposta_correta": 0,
+      "dificuldade": 3
+    },
+    {
+      "id": 34,
+      "texto": "Qual é o nome do deserto que cobre grande parte da Mongólia?",
+      "alternativas": [
+        "Deserto de Gobi",
+        "Deserto do Saara",
+        "Deserto da Arábia",
+        "Deserto de Kalahari"
+      ],
+      "resposta_correta": 0,
+      "dificuldade": 3
+    },
+    {
+      "id": 35,
+      "texto": "Qual é o nome do ponto mais profundo dos oceanos?",
+      "alternativas": [
+        "Fossa das Marianas",
+        "Fossa de Tonga",
+        "Fossa de Porto Rico",
+        "Fossa de Java"
+      ],
+      "resposta_correta": 0,
+      "dificuldade": 3
+    },
+    {
+      "id": 36,
+      "texto": "Qual é o nome da cidade dividida por um muro durante a Guerra Fria?",
+      "alternativas": ["Berlim", "Viena", "Praga", "Moscou"],
+      "resposta_correta": 0,
+      "dificuldade": 3
+    },
+    {
+      "id": 37,
+      "texto": "Qual é o nome da região da Itália famosa por sua produção de vinhos?",
+      "alternativas": ["Toscana", "Sicília", "Lombardia", "Vêneto"],
+      "resposta_correta": 0,
+      "dificuldade": 3
+    },
+    {
+      "id": 38,
+      "texto": "Qual é o maior arquipélago do mundo?",
+      "alternativas": ["Indonésia", "Filipinas", "Maldivas", "Japão"],
+      "resposta_correta": 0,
+      "dificuldade": 3
+    },
+    {
+      "id": 39,
+      "texto": "Qual é o nome do canal que conecta o Mar Mediterrâneo ao Mar Vermelho?",
+      "alternativas": [
+        "Canal de Suez",
+        "Canal do Panamá",
+        "Canal da Mancha",
+        "Canal de Kiel"
+      ],
+      "resposta_correta": 0,
+      "dificuldade": 3
+    },
+    {
+      "id": 40,
+      "texto": "Qual é o nome do país que tem a cidade de Timbuktu?",
+      "alternativas": ["Mali", "Nigéria", "Chade", "Etiópia"],
+      "resposta_correta": 0,
+      "dificuldade": 3
+    },
+    {
+      "id": 41,
+      "texto": "Qual é o nome da cordilheira que atravessa a América do Sul?",
+      "alternativas": ["Andes", "Himalaia", "Alpes", "Montanhas Rochosas"],
+      "resposta_correta": 0,
+      "dificuldade": 3
+    },
+    {
+      "id": 42,
+      "texto": "Qual é a capital da Islândia?",
+      "alternativas": ["Reykjavik", "Oslo", "Helsinque", "Estocolmo"],
+      "resposta_correta": 0,
+      "dificuldade": 3
+    },
+    {
+      "id": 43,
+      "texto": "Qual é o nome da planície onde ocorrem as maiores migrações de animais da África?",
+      "alternativas": ["Serengeti", "Kalahari", "Saara", "Okavango"],
+      "resposta_correta": 0,
+      "dificuldade": 3
+    },
+    {
+      "id": 44,
+      "texto": "Qual país europeu é conhecido por seus fiordes?",
+      "alternativas": ["Noruega", "Suécia", "Dinamarca", "Finlândia"],
+      "resposta_correta": 0,
+      "dificuldade": 3
+    },
+    {
+      "id": 45,
+      "texto": "Qual é a maior ilha do Mediterrâneo?",
+      "alternativas": ["Sicília", "Sardenha", "Creta", "Chipre"],
+      "resposta_correta": 0,
+      "dificuldade": 3
+    },
+    {
+      "id": 46,
+      "texto": "Qual é o nome do vulcão ativo localizado no Havaí?",
+      "alternativas": [
+        "Mauna Loa",
+        "Monte Fuji",
+        "Monte Etna",
+        "Monte Kilimanjaro"
+      ],
+      "resposta_correta": 0,
+      "dificuldade": 3
+    },
+    {
+      "id": 47,
+      "texto": "Qual é o nome do golfo localizado entre o Irã e a Arábia Saudita?",
+      "alternativas": [
+        "Golfo Pérsico",
+        "Golfo de Omã",
+        "Golfo de Aden",
+        "Golfo de Aqaba"
+      ],
+      "resposta_correta": 0,
+      "dificuldade": 3
+    },
+    {
+      "id": 48,
+      "texto": "Qual é a cidade localizada na junção dos continentes Europa e Ásia?",
+      "alternativas": ["Istambul", "Moscou", "Cairo", "Atenas"],
+      "resposta_correta": 0,
+      "dificuldade": 3
+    },
+    {
+      "id": 49,
+      "texto": "Qual é o nome da região mais fria da Terra?",
+      "alternativas": ["Antártida", "Ártico", "Sibéria", "Groenlândia"],
+      "resposta_correta": 0,
+      "dificuldade": 3
+    },
+    {
+      "id": 50,
+      "texto": "Qual é o nome do país europeu que tem como capital Ljubljana?",
+      "alternativas": ["Eslovênia", "Eslováquia", "Letônia", "Lituânia"],
+      "resposta_correta": 0,
+      "dificuldade": 3
+    }
+  ]
+}
