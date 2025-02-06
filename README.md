@@ -59,7 +59,7 @@
 - O **último jogador restante** será declarado **vencedor**.  
 - Se todos os jogadores forem eliminados na mesma rodada e com a mesma pontuação, o jogo termina **empatado**.  
 
-####### 🚀 Como Jogar  
+# 🚀 Como Jogar  
 
 Para iniciar o jogo, execute o seguinte comando na pasta raiz:
 
@@ -74,7 +74,7 @@ Resposta Correta: O jogador ganha 1 ponto.
 Resposta Errada: O jogador é eliminado.
 4️⃣ No final, o vencedor é declarado e os recordes são guardados.
 
-######## 📂 Estrutura do Projeto
+## 📂 Estrutura do Projeto
 
 desafio_das_mentes/
 ├── data/
